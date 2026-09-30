@@ -6,13 +6,13 @@
       "id": "allura",
       "name": "Allura",
       "category": "handwriting",
-      "homepage_url": "https://fonts.google.com/specimen/Allura",
-      "download_url": "https://github.com/google/fonts/raw/main/ofl/allura/Allura-Regular.ttf",
-      "file_format": "ttf",
+      "homepage_url": "https://github.com/google/fonts/tree/main/ofl/allura",
+      "download_url": "https://fonts.google.com/download?family=Allura",
+      "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://openfontlicense.org/documents/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/allura/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -31,12 +31,12 @@
       "id": "atkinson-hyperlegible",
       "name": "Atkinson Hyperlegible",
       "category": "sans-serif",
-      "homepage_url": "https://brailleinstitute.org/freefont",
+      "homepage_url": "https://www.brailleinstitute.org/freefont/",
       "download_url": "https://fonts.google.com/download?family=Atkinson+Hyperlegible",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
@@ -75,12 +75,12 @@
       "id": "atkinson-hyperlegible-mono",
       "name": "Atkinson Hyperlegible Mono",
       "category": "monospace",
-      "homepage_url": "https://brailleinstitute.org/freefont",
+      "homepage_url": "https://www.brailleinstitute.org/freefont/",
       "download_url": "https://fonts.google.com/download?family=Atkinson+Hyperlegible+Mono",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
@@ -119,12 +119,12 @@
       "id": "atkinson-hyperlegible-next",
       "name": "Atkinson Hyperlegible Next",
       "category": "sans-serif",
-      "homepage_url": "https://brailleinstitute.org/freefont",
+      "homepage_url": "https://www.brailleinstitute.org/freefont",
       "download_url": "https://fonts.google.com/download?family=Atkinson+Hyperlegible+Next",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": true,
@@ -140,13 +140,13 @@
       "id": "atma",
       "name": "Atma",
       "category": "display",
-      "homepage_url": "https://github.com/itfoundry/atma",
+      "homepage_url": "https://github.com/BlackFoundryCom/Atma",
       "download_url": "https://fonts.google.com/download?family=Atma",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://openfontlicense.org/documents/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/BlackFoundryCom/Atma/master/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -198,7 +198,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
@@ -328,12 +328,12 @@
       "id": "buenard",
       "name": "Buenard",
       "category": "serif",
-      "homepage_url": "https://fonts.google.com/specimen/Buenard",
+      "homepage_url": "https://github.com/google/fonts/tree/main/ofl/buenard",
       "download_url": "https://fonts.google.com/download?family=Buenard",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
@@ -365,7 +365,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": true,
@@ -386,7 +386,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": true,
@@ -407,7 +407,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": true,
@@ -428,8 +428,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "Bitstream-Vera",
-        "url": "https://www.gnu.org/licenses/license-list.html#bitstream",
-        "text_url": "https://raw.githubusercontent.com/dejavu-fonts/dejavu-fonts/master/LICENSE"
+        "url": "https://spdx.org/licenses/Bitstream-Vera.html",
+        "text_url": "https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/src/unpatched-fonts/BitstreamVeraSansMono/Bitstream%20Vera%20License.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -467,12 +467,12 @@
       "id": "clicker-script",
       "name": "Clicker Script",
       "category": "handwriting",
-      "homepage_url": "https://fonts.google.com/specimen/Clicker+Script",
-      "download_url": "https://github.com/google/fonts/raw/main/ofl/clickerscript/ClickerScript-Regular.ttf",
-      "file_format": "ttf",
+      "homepage_url": "https://github.com/google/fonts/tree/main/ofl/clickerscript",
+      "download_url": "https://fonts.google.com/download?family=Clicker+Script",
+      "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
@@ -497,7 +497,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/crozynski/comicneue/master/OFL.txt"
       },
       "is_variable_font": false,
@@ -554,7 +554,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/crozynski/comicneue/master/OFL.txt"
       },
       "is_variable_font": false,
@@ -611,7 +611,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": true,
@@ -657,7 +657,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "Bitstream-Vera",
-        "url": "https://www.gnu.org/licenses/license-list.html#bitstream",
+        "url": "https://spdx.org/licenses/Bitstream-Vera.html",
         "text_url": "https://raw.githubusercontent.com/dejavu-fonts/dejavu-fonts/master/LICENSE"
       },
       "is_variable_font": false,
@@ -701,7 +701,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "Bitstream-Vera",
-        "url": "https://www.gnu.org/licenses/license-list.html#bitstream",
+        "url": "https://spdx.org/licenses/Bitstream-Vera.html",
         "text_url": "https://raw.githubusercontent.com/dejavu-fonts/dejavu-fonts/master/LICENSE"
       },
       "is_variable_font": false,
@@ -745,7 +745,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "Bitstream-Vera",
-        "url": "https://www.gnu.org/licenses/license-list.html#bitstream",
+        "url": "https://spdx.org/licenses/Bitstream-Vera.html",
         "text_url": "https://raw.githubusercontent.com/dejavu-fonts/dejavu-fonts/master/LICENSE"
       },
       "is_variable_font": false,
@@ -789,7 +789,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
@@ -841,12 +841,12 @@
       "id": "dm-sans",
       "name": "DM Sans",
       "category": "sans-serif",
-      "homepage_url": "https://github.com/googlefonts/dm-sans",
+      "homepage_url": "https://github.com/googlefonts/dm-fonts",
       "download_url": "https://fonts.google.com/download?family=DM+Sans",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": true,
@@ -862,12 +862,12 @@
       "id": "dm-sans-9pt",
       "name": "DM Sans 9pt",
       "category": "sans-serif",
-      "homepage_url": "https://github.com/googlefonts/dm-sans",
+      "homepage_url": "https://github.com/googlefonts/dm-fonts",
       "download_url": "https://fonts.google.com/download?family=DM+Sans",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
@@ -919,12 +919,12 @@
       "id": "dm-serif-display",
       "name": "DM Serif Display",
       "category": "display",
-      "homepage_url": "https://github.com/googlefonts/dm-serif",
+      "homepage_url": "https://github.com/googlefonts/dm-fonts",
       "download_url": "https://fonts.google.com/download?family=DM+Serif+Display",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
@@ -950,12 +950,12 @@
       "id": "dm-serif-text",
       "name": "DM Serif Text",
       "category": "serif",
-      "homepage_url": "https://github.com/googlefonts/dm-serif",
+      "homepage_url": "https://github.com/googlefonts/dm-fonts",
       "download_url": "https://fonts.google.com/download?family=DM+Serif+Text",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
@@ -986,7 +986,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": true,
@@ -1007,7 +1007,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": true,
@@ -1028,7 +1028,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
@@ -1072,7 +1072,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": true,
@@ -1093,7 +1093,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
@@ -1118,7 +1118,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
@@ -1157,7 +1157,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
@@ -1292,7 +1292,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
@@ -1336,7 +1336,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
@@ -1361,7 +1361,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
@@ -1428,7 +1428,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
@@ -1484,12 +1484,12 @@
       "id": "hk-grotesk",
       "name": "HK Grotesk",
       "category": "sans-serif",
-      "homepage_url": "https://github.com/hanken-co/hk-grotesk",
+      "homepage_url": "https://github.com/HankenDesignCo/HK-Grotesk",
       "download_url": "https://fonts.google.com/download?family=Hanken+Grotesk",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": true,
@@ -1510,7 +1510,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
@@ -1577,7 +1577,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
@@ -1644,7 +1644,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
@@ -1711,7 +1711,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": true,
@@ -1731,7 +1731,7 @@
       "id": "infini",
       "name": "Infini",
       "category": "sans-serif",
-      "homepage_url": "http://www.cnap.graphismeenfrance.fr/infini/",
+      "homepage_url": "https://www.cnap.fr/sites/infini/en/project",
       "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/Infini.zip",
       "file_format": "zip",
       "license": {
@@ -1769,7 +1769,7 @@
       "id": "infini-picto",
       "name": "Infini Picto",
       "category": "symbols",
-      "homepage_url": "http://www.cnap.graphismeenfrance.fr/infini/",
+      "homepage_url": "https://www.cnap.fr/sites/infini/en/project",
       "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/Infini-Picto.zip",
       "file_format": "zip",
       "license": {
@@ -1799,7 +1799,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/BlackFoundryCom/InriaFonts/master/OFL.txt"
       },
       "is_variable_font": false,
@@ -1856,7 +1856,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/BlackFoundryCom/InriaFonts/master/OFL.txt"
       },
       "is_variable_font": false,
@@ -1913,8 +1913,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/GoogleFonts/Inter/master/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/rsms/inter/master/LICENSE.txt"
       },
       "is_variable_font": true,
       "variable_axes": {
@@ -1938,8 +1938,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/cormullion/juliamono/master/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/cormullion/juliamono/master/LICENSE"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -1970,8 +1970,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/GoogleFonts/Lato/master/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/latofonts/lato-source/master/LICENSE.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -2009,13 +2009,13 @@
       "id": "lete-sans-math",
       "name": "Lete Sans Math",
       "category": "math",
-      "homepage_url": "https://github.com/khaledhosny/lete-sans-math",
+      "homepage_url": "https://github.com/abccsss/LeteSansMath",
       "download_url": "https://github.com/abccsss/LeteSansMath/archive/refs/heads/master.zip",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/khaledhosny/lete-sans-math/master/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/abccsss/LeteSansMath/master/LICENSE.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -2036,11 +2036,11 @@
       "category": "monospace",
       "homepage_url": "https://github.com/liberationfonts/liberation-fonts",
       "download_url": "https://github.com/liberationfonts/liberation-fonts/archive/refs/heads/main.zip",
-      "file_format": "tar.gz",
+      "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/liberationfonts/liberation-fonts/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/liberationfonts/liberation-fonts/main/LICENSE"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -2080,11 +2080,11 @@
       "category": "sans-serif",
       "homepage_url": "https://github.com/liberationfonts/liberation-fonts",
       "download_url": "https://github.com/liberationfonts/liberation-fonts/archive/refs/heads/main.zip",
-      "file_format": "tar.gz",
+      "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/liberationfonts/liberation-fonts/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/liberationfonts/liberation-fonts/main/LICENSE"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -2124,11 +2124,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/liberationfonts/liberation-fonts",
       "download_url": "https://github.com/liberationfonts/liberation-fonts/archive/refs/heads/main.zip",
-      "file_format": "tar.gz",
+      "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/liberationfonts/liberation-fonts/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/liberationfonts/liberation-fonts/main/LICENSE"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -2171,7 +2171,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/alerque/libertinus/master/OFL.txt"
       },
       "is_variable_font": false,
@@ -2196,7 +2196,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/alerque/libertinus/master/OFL.txt"
       },
       "is_variable_font": false,
@@ -2221,7 +2221,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/alerque/libertinus/master/OFL.txt"
       },
       "is_variable_font": false,
@@ -2246,7 +2246,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/alerque/libertinus/master/OFL.txt"
       },
       "is_variable_font": false,
@@ -2284,7 +2284,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/alerque/libertinus/master/OFL.txt"
       },
       "is_variable_font": false,
@@ -2341,7 +2341,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/alerque/libertinus/master/OFL.txt"
       },
       "is_variable_font": false,
@@ -2366,7 +2366,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/alerque/libertinus/master/OFL.txt"
       },
       "is_variable_font": false,
@@ -2391,8 +2391,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/graphicore/librebarcode/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/graphicore/librebarcode/master/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -2416,8 +2416,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/graphicore/librebarcode/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/graphicore/librebarcode/master/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -2441,8 +2441,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/impallari/Libre-Baskerville/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/impallari/Libre-Baskerville/master/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -2474,13 +2474,13 @@
       "id": "linux-biolinum",
       "name": "Linux Biolinum",
       "category": "sans-serif",
-      "homepage_url": "https://sourceforge.net/projects/linuxlibertine/",
+      "homepage_url": "https://linuxlibertine.sourceforge.net/",
       "download_url": "https://mirrors.ctan.org/fonts/libertine.zip",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/liberationfonts/liberation-fonts/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -2512,13 +2512,13 @@
       "id": "linux-biolinum-keyboard",
       "name": "Linux Biolinum Keyboard",
       "category": "symbols",
-      "homepage_url": "https://sourceforge.net/projects/linuxlibertine/",
+      "homepage_url": "https://linuxlibertine.sourceforge.net/",
       "download_url": "https://mirrors.ctan.org/fonts/libertine.zip",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/liberationfonts/liberation-fonts/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -2537,13 +2537,13 @@
       "id": "linux-libertine",
       "name": "Linux Libertine",
       "category": "serif",
-      "homepage_url": "https://sourceforge.net/projects/linuxlibertine/",
+      "homepage_url": "https://linuxlibertine.sourceforge.net/",
       "download_url": "https://mirrors.ctan.org/fonts/libertine.zip",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/liberationfonts/liberation-fonts/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -2594,13 +2594,13 @@
       "id": "linux-libertine-display",
       "name": "Linux Libertine Display",
       "category": "display",
-      "homepage_url": "https://sourceforge.net/projects/linuxlibertine/",
+      "homepage_url": "https://linuxlibertine.sourceforge.net/",
       "download_url": "https://mirrors.ctan.org/fonts/libertine.zip",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/liberationfonts/liberation-fonts/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -2619,13 +2619,13 @@
       "id": "linux-libertine-initials",
       "name": "Linux Libertine Initials",
       "category": "display",
-      "homepage_url": "https://sourceforge.net/projects/linuxlibertine/",
+      "homepage_url": "https://linuxlibertine.sourceforge.net/",
       "download_url": "https://mirrors.ctan.org/fonts/libertine.zip",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/liberationfonts/liberation-fonts/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -2644,13 +2644,13 @@
       "id": "linux-libertine-mono",
       "name": "Linux Libertine Mono",
       "category": "monospace",
-      "homepage_url": "https://sourceforge.net/projects/linuxlibertine/",
+      "homepage_url": "https://linuxlibertine.sourceforge.net/",
       "download_url": "https://mirrors.ctan.org/fonts/libertine.zip",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/liberationfonts/liberation-fonts/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -2674,7 +2674,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/cyrealtype/Lora-Cyrillic/main/OFL.txt"
       },
       "is_variable_font": true,
@@ -2695,8 +2695,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/luciole-vision/luciole/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -2739,8 +2739,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/luciole-vision/luciole/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -2759,13 +2759,13 @@
       "id": "manrope",
       "name": "Manrope",
       "category": "sans-serif",
-      "homepage_url": "https://manropefont.com/",
+      "homepage_url": "https://www.sharanda.com/manrope",
       "download_url": "https://fonts.google.com/download?family=Manrope",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/googlefonts/Manrope/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/googlefonts/Manrope/master/OFL.txt"
       },
       "is_variable_font": true,
       "variable_axes": {
@@ -2785,8 +2785,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/SorkinType/Merriweather/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/SorkinType/Merriweather/master/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -2837,8 +2837,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/SorkinType/Merriweather/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/SorkinType/Merriweather/master/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -2875,8 +2875,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/SorkinType/Merriweather-Sans/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/SorkinType/Merriweather-Sans/master/OFL.txt"
       },
       "is_variable_font": true,
       "variable_axes": {
@@ -3122,7 +3122,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": true,
@@ -3143,7 +3143,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": true,
@@ -3164,7 +3164,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/notofonts/latin-greek-cyrillic/main/OFL.txt"
       },
       "is_variable_font": true,
@@ -3189,7 +3189,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/notofonts/latin-greek-cyrillic/main/OFL.txt"
       },
       "is_variable_font": true,
@@ -3214,7 +3214,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/notofonts/latin-greek-cyrillic/main/OFL.txt"
       },
       "is_variable_font": true,
@@ -3239,7 +3239,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/notofonts/latin-greek-cyrillic/main/OFL.txt"
       },
       "is_variable_font": true,
@@ -3259,13 +3259,13 @@
       "id": "old-standard",
       "name": "Old Standard",
       "category": "serif",
-      "homepage_url": "https://github.com/alerque/oldstandard",
+      "homepage_url": "https://github.com/akryukov/oldstand",
       "download_url": "https://fonts.google.com/download?family=Old+Standard+TT",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/alerque/oldstandard/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/akryukov/oldstand/master/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -3297,13 +3297,13 @@
       "id": "old-standard-math",
       "name": "OldStandard-Math",
       "category": "math",
-      "homepage_url": "https://github.com/alerque/oldstandard-math",
+      "homepage_url": "https://ctan.org/pkg/oldstandard",
       "download_url": "https://fonts.google.com/download?family=Old+Standard+TT",
       "file_format": "zip",
       "license": {
-        "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/alerque/oldstandard-math/main/OFL.txt"
+        "spdx": "LicenseRef-GUST-Font-License-1.0",
+        "url": "https://www.tug.org/fonts/licenses/gfl.html",
+        "text_url": "https://tug.org/fonts/licenses/GUST-FONT-LICENSE.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -3322,13 +3322,13 @@
       "id": "open-sauce-one",
       "name": "Open Sauce One",
       "category": "sans-serif",
-      "homepage_url": "https://github.com/supercomputra/OpenSauce",
+      "homepage_url": "https://github.com/marcologous/Open-Sauce-Fonts",
       "download_url": "https://github.com/marcologous/Open-Sauce-Fonts/archive/refs/heads/master.zip",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/supercomputra/OpenSauce/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -3369,7 +3369,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/antijingoist/opendyslexic/main/OFL.txt"
       },
       "is_variable_font": false,
@@ -3413,7 +3413,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/antijingoist/opendyslexic/main/OFL.txt"
       },
       "is_variable_font": false,
@@ -3433,13 +3433,13 @@
       "id": "pennstander",
       "name": "Pennstander",
       "category": "sans-serif",
-      "homepage_url": "https://github.com/pennstander/pennstander-fonts",
+      "homepage_url": "https://github.com/juliusross1/Pennstander",
       "download_url": "https://github.com/juliusross1/Pennstander/archive/refs/heads/main.zip",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/pennstander/pennstander-fonts/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/juliusross1/Pennstander/main/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -3465,13 +3465,13 @@
       "id": "pennstander-math",
       "name": "Pennstander Math",
       "category": "math",
-      "homepage_url": "https://github.com/pennstander/pennstander-fonts",
+      "homepage_url": "https://github.com/juliusross1/Pennstander",
       "download_url": "https://github.com/juliusross1/Pennstander/archive/refs/heads/main.zip",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/pennstander/pennstander-fonts/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/juliusross1/Pennstander/main/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -3490,9 +3490,9 @@
       "id": "permanent-marker",
       "name": "Permanent Marker",
       "category": "handwriting",
-      "homepage_url": "https://fonts.google.com/specimen/Permanent+Marker",
-      "download_url": "https://github.com/google/fonts/raw/main/apache/permanentmarker/PermanentMarker-Regular.ttf",
-      "file_format": "ttf",
+      "homepage_url": "https://github.com/google/fonts/tree/main/apache/permanentmarker",
+      "download_url": "https://fonts.google.com/download?family=Permanent+Marker",
+      "file_format": "zip",
       "license": {
         "spdx": "Apache-2.0",
         "url": "https://www.apache.org/licenses/LICENSE-2.0",
@@ -3520,7 +3520,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/notofonts/latin-greek-cyrillic/main/OFL.txt"
       },
       "is_variable_font": false,
@@ -3552,7 +3552,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/notofonts/latin-greek-cyrillic/main/OFL.txt"
       },
       "is_variable_font": false,
@@ -3596,7 +3596,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/notofonts/latin-greek-cyrillic/main/OFL.txt"
       },
       "is_variable_font": false,
@@ -3628,7 +3628,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/notofonts/latin-greek-cyrillic/main/OFL.txt"
       },
       "is_variable_font": false,
@@ -3672,7 +3672,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/notofonts/latin-greek-cyrillic/main/OFL.txt"
       },
       "is_variable_font": true,
@@ -3692,7 +3692,7 @@
       "id": "reforma-1918",
       "name": "Reforma 1918",
       "category": "serif",
-      "homepage_url": "https://reforma.unc.edu.ar/",
+      "homepage_url": "https://pampatype.com/reforma",
       "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/Reforma.1918.zip",
       "file_format": "zip",
       "license": {
@@ -3736,7 +3736,7 @@
       "id": "reforma-1969",
       "name": "Reforma 1969",
       "category": "serif",
-      "homepage_url": "https://reforma.unc.edu.ar/",
+      "homepage_url": "https://pampatype.com/reforma",
       "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/Reforma.1969.zip",
       "file_format": "zip",
       "license": {
@@ -3780,7 +3780,7 @@
       "id": "reforma-2018",
       "name": "Reforma 2018",
       "category": "sans-serif",
-      "homepage_url": "https://reforma.unc.edu.ar/",
+      "homepage_url": "https://pampatype.com/reforma",
       "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/Reforma.2018.zip",
       "file_format": "zip",
       "license": {
@@ -3824,13 +3824,13 @@
       "id": "roboto",
       "name": "Roboto",
       "category": "sans-serif",
-      "homepage_url": "https://github.com/googlefonts/roboto",
-      "download_url": "https://github.com/googlefonts/roboto/releases/latest/download/roboto-unhinted.zip",
+      "homepage_url": "https://github.com/googlefonts/roboto-3-classic",
+      "download_url": " https://fonts.google.com/download?family=Roboto",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/googlefonts/roboto/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/googlefonts/roboto-3-classic/main/OFL.txt"
       },
       "is_variable_font": true,
       "variable_axes": {
@@ -3854,7 +3854,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/googlefonts/RobotoMono/main/OFL.txt"
       },
       "is_variable_font": true,
@@ -3875,7 +3875,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/googlefonts/roboto-serif/main/OFL.txt"
       },
       "is_variable_font": true,
@@ -3904,7 +3904,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://raw.githubusercontent.com/googlefonts/roboto-serif/main/OFL.txt"
       },
       "is_variable_font": false,
@@ -3942,8 +3942,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/googlefonts/RobotoSlab/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/googlefonts/RobotoSlab/main/LICENSE.txt"
       },
       "is_variable_font": true,
       "variable_axes": {
@@ -3963,8 +3963,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/adobe-fonts/source-code-pro/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/adobe-fonts/source-code-pro/main/LICENSE.md"
       },
       "is_variable_font": true,
       "variable_axes": {
@@ -3984,8 +3984,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/adobe-fonts/source-sans/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/adobe-fonts/source-sans/main/LICENSE.md"
       },
       "is_variable_font": true,
       "variable_axes": {
@@ -4005,8 +4005,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/adobe-fonts/source-serif/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/adobe-fonts/source-serif/main/LICENSE.md"
       },
       "is_variable_font": true,
       "variable_axes": {
@@ -4026,8 +4026,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/productiontype/Spectral/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/productiontype/Spectral/master/ofl.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -4075,8 +4075,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/stipub/stixfonts/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/stipub/stixfonts/master/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -4100,8 +4100,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/stipub/stixfonts/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://raw.githubusercontent.com/stipub/stixfonts/master/OFL.txt"
       },
       "is_variable_font": true,
       "variable_axes": {
@@ -4121,8 +4121,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/bonjour-monde/syne-typeface/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://gitlab.com/bonjour-monde/fonderie/syne-typeface/-/raw/master/OFL.txt"
       },
       "is_variable_font": true,
       "variable_axes": {
@@ -4142,8 +4142,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/bonjour-monde/syne-typeface/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://gitlab.com/bonjour-monde/fonderie/syne-typeface/-/raw/master/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -4167,8 +4167,8 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
-        "text_url": "https://raw.githubusercontent.com/bonjour-monde/syne-typeface/main/OFL.txt"
+        "url": "https://openfontlicense.org/",
+        "text_url": "https://gitlab.com/bonjour-monde/fonderie/syne-typeface/-/raw/master/OFL.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -4187,7 +4187,7 @@
       "id": "tex-gyre-adventor",
       "name": "TeX Gyre Adventor",
       "category": "sans-serif",
-      "homepage_url": "http://www.gust.org.pl/projects/e-fonts/tex-gyre/adventor",
+      "homepage_url": "https://ctan.org/pkg/tex-gyre",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre.zip",
       "file_format": "zip",
       "license": {
@@ -4231,7 +4231,7 @@
       "id": "tex-gyre-bonum",
       "name": "TeX Gyre Bonum",
       "category": "serif",
-      "homepage_url": "http://www.gust.org.pl/projects/e-fonts/tex-gyre/bonum",
+      "homepage_url": "https://ctan.org/pkg/tex-gyre",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre.zip",
       "file_format": "zip",
       "license": {
@@ -4275,7 +4275,7 @@
       "id": "tex-gyre-bonum-math",
       "name": "TeX Gyre Bonum Math",
       "category": "math",
-      "homepage_url": "http://www.gust.org.pl/projects/e-fonts/tg-math",
+      "homepage_url": "https://ctan.org/pkg/tex-gyre-math",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre-math.zip",
       "file_format": "zip",
       "license": {
@@ -4300,7 +4300,7 @@
       "id": "tex-gyre-chorus",
       "name": "TeX Gyre Chorus",
       "category": "cursive",
-      "homepage_url": "http://www.gust.org.pl/projects/e-fonts/tex-gyre/chorus",
+      "homepage_url": "https://ctan.org/pkg/tex-gyre",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre.zip",
       "file_format": "zip",
       "license": {
@@ -4325,7 +4325,7 @@
       "id": "tex-gyre-cursor",
       "name": "TeX Gyre Cursor",
       "category": "monospace",
-      "homepage_url": "http://www.gust.org.pl/projects/e-fonts/tex-gyre/cursor",
+      "homepage_url": "https://ctan.org/pkg/tex-gyre",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre.zip",
       "file_format": "zip",
       "license": {
@@ -4369,7 +4369,7 @@
       "id": "tex-gyre-heros",
       "name": "TeX Gyre Heros",
       "category": "sans-serif",
-      "homepage_url": "http://www.gust.org.pl/projects/e-fonts/tex-gyre/heros",
+      "homepage_url": "https://ctan.org/pkg/tex-gyre",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre.zip",
       "file_format": "zip",
       "license": {
@@ -4413,7 +4413,7 @@
       "id": "tex-gyre-pagella",
       "name": "TeX Gyre Pagella",
       "category": "serif",
-      "homepage_url": "http://www.gust.org.pl/projects/e-fonts/tex-gyre/pagella",
+      "homepage_url": "https://ctan.org/pkg/tex-gyre",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre.zip",
       "file_format": "zip",
       "license": {
@@ -4457,7 +4457,7 @@
       "id": "tex-gyre-pagella-math",
       "name": "TeX Gyre Pagella Math",
       "category": "math",
-      "homepage_url": "http://www.gust.org.pl/projects/e-fonts/tg-math",
+      "homepage_url": "https://ctan.org/pkg/tex-gyre-math",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre-math.zip",
       "file_format": "zip",
       "license": {
@@ -4482,7 +4482,7 @@
       "id": "tex-gyre-schola",
       "name": "TeX Gyre Schola",
       "category": "serif",
-      "homepage_url": "http://www.gust.org.pl/projects/e-fonts/tex-gyre/schola",
+      "homepage_url": "https://ctan.org/pkg/tex-gyre",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre.zip",
       "file_format": "zip",
       "license": {
@@ -4526,7 +4526,7 @@
       "id": "tex-gyre-schola-math",
       "name": "TeX Gyre Schola Math",
       "category": "math",
-      "homepage_url": "http://www.gust.org.pl/projects/e-fonts/tg-math",
+      "homepage_url": "https://ctan.org/pkg/tex-gyre-math",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre-math.zip",
       "file_format": "zip",
       "license": {
@@ -4551,7 +4551,7 @@
       "id": "tex-gyre-termes",
       "name": "TeX Gyre Termes",
       "category": "serif",
-      "homepage_url": "http://www.gust.org.pl/projects/e-fonts/tex-gyre/termes",
+      "homepage_url": "https://ctan.org/pkg/tex-gyre",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre.zip",
       "file_format": "zip",
       "license": {
@@ -4595,7 +4595,7 @@
       "id": "tex-gyre-termes-math",
       "name": "TeX Gyre Termes Math",
       "category": "math",
-      "homepage_url": "http://www.gust.org.pl/projects/e-fonts/tg-math",
+      "homepage_url": "https://ctan.org/pkg/tex-gyre-math",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre-math.zip",
       "file_format": "zip",
       "license": {
@@ -4647,7 +4647,7 @@
       "category": "emoji",
       "homepage_url": "https://github.com/twitter/twemoji",
       "download_url": "https://github.com/twitter/twemoji/archive/refs/heads/master.zip",
-      "file_format": "ttf",
+      "file_format": "zip",
       "license": {
         "spdx": "CC-BY-4.0",
         "url": "https://creativecommons.org/licenses/by/4.0/",
@@ -4675,7 +4675,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": false,
@@ -4700,7 +4700,7 @@
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
-        "url": "https://scripts.sil.org/OFL",
+        "url": "https://openfontlicense.org/",
         "text_url": "https://openfontlicense.org/documents/OFL.txt"
       },
       "is_variable_font": true,
