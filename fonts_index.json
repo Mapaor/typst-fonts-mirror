@@ -550,7 +550,7 @@
       "name": "Comic Neue Angular",
       "category": "sans-serif",
       "homepage_url": "https://github.com/crozynski/comicneue",
-      "download_url": "http://comicneue.com/comic-neue-2.1.zip",
+      "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/ComicNeue-Angular.zip",
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -1732,12 +1732,12 @@
       "name": "Infini",
       "category": "sans-serif",
       "homepage_url": "http://www.cnap.graphismeenfrance.fr/infini/",
-      "download_url": "https://fontlibrary.org/assets/downloads/infini/c9c4562095ccdc76c49cc8b728564da1/infini.zip",
+      "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/Infini.zip",
       "file_format": "zip",
       "license": {
         "spdx": "CC-BY-ND-3.0",
         "url": "https://creativecommons.org/licenses/by-nd/3.0/",
-        "text_url": "https://creativecommons.org/licenses/by-nd/3.0/legalcode.txt"
+        "text_url": "https://raw.githubusercontent.com/Mapaor/typst-fonts-mirror/main/licenses/Infini.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -1770,12 +1770,12 @@
       "name": "Infini Picto",
       "category": "symbols",
       "homepage_url": "http://www.cnap.graphismeenfrance.fr/infini/",
-      "download_url": "https://fontlibrary.org/assets/downloads/infini/c9c4562095ccdc76c49cc8b728564da1/infini.zip",
+      "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/Infini-Picto.zip",
       "file_format": "zip",
       "license": {
         "spdx": "CC-BY-ND-3.0",
         "url": "https://creativecommons.org/licenses/by-nd/3.0/",
-        "text_url": "https://creativecommons.org/licenses/by-nd/3.0/legalcode.txt"
+        "text_url": "https://raw.githubusercontent.com/Mapaor/typst-fonts-mirror/main/licenses/Infini-Picto.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -3693,12 +3693,12 @@
       "name": "Reforma 1918",
       "category": "serif",
       "homepage_url": "https://reforma.unc.edu.ar/",
-      "download_url": "https://github.com/pampatype/reforma/archive/refs/heads/master.zip",
+      "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/Reforma.1918.zip",
       "file_format": "zip",
       "license": {
         "spdx": "CC-BY-ND-4.0",
         "url": "https://creativecommons.org/licenses/by-nd/4.0/",
-        "text_url": "https://creativecommons.org/licenses/by-nd/4.0/legalcode.txt"
+        "text_url": "https://raw.githubusercontent.com/Mapaor/typst-fonts-mirror/main/licenses/Reforma%201918.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -3737,12 +3737,12 @@
       "name": "Reforma 1969",
       "category": "serif",
       "homepage_url": "https://reforma.unc.edu.ar/",
-      "download_url": "https://github.com/pampatype/reforma/archive/refs/heads/master.zip",
+      "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/Reforma.1969.zip",
       "file_format": "zip",
       "license": {
         "spdx": "CC-BY-ND-4.0",
         "url": "https://creativecommons.org/licenses/by-nd/4.0/",
-        "text_url": "https://creativecommons.org/licenses/by-nd/4.0/legalcode.txt"
+        "text_url": "https://raw.githubusercontent.com/Mapaor/typst-fonts-mirror/main/licenses/Reforma%201969.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -3781,12 +3781,12 @@
       "name": "Reforma 2018",
       "category": "sans-serif",
       "homepage_url": "https://reforma.unc.edu.ar/",
-      "download_url": "https://github.com/pampatype/reforma/archive/refs/heads/master.zip",
+      "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/Reforma.2018.zip",
       "file_format": "zip",
       "license": {
         "spdx": "CC-BY-ND-4.0",
         "url": "https://creativecommons.org/licenses/by-nd/4.0/",
-        "text_url": "https://creativecommons.org/licenses/by-nd/4.0/legalcode.txt"
+        "text_url": "https://raw.githubusercontent.com/Mapaor/typst-fonts-mirror/main/licenses/Reforma%202018.txt"
       },
       "is_variable_font": false,
       "available_weights": [
