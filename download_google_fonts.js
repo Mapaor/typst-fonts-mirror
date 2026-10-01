@@ -5,7 +5,7 @@ const { chromium } = require('playwright');
 const repositoryRoot = __dirname;
 const defaults = {
 	input: path.join(repositoryRoot, 'google_fonts.json'),
-	output: path.join(repositoryRoot, 'fonts'),
+	output: path.join(repositoryRoot, 'fonts-google'),
 	timeout: 120000,
 	force: false,
 	headless: true,
