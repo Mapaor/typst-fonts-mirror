@@ -1820,13 +1820,13 @@
       "name": "Infini",
       "category": "sans-serif",
       "homepage_url": "https://www.cnap.fr/sites/infini/en/project",
-      "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/Infini.zip",
+      "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/latest/download/infini.zip",
       "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/latest/download/infini.zip",
       "file_format": "zip",
       "license": {
         "spdx": "CC-BY-ND-3.0",
         "url": "https://creativecommons.org/licenses/by-nd/3.0/",
-        "text_url": "https://raw.githubusercontent.com/Mapaor/typst-fonts-mirror/main/licenses/Infini.txt"
+        "text_url": "https://raw.githubusercontent.com/Mapaor/typst-fonts-mirror/fe31cb591d36076b9cc747c3d2de29fecd85f362/licenses/Infini.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -1859,13 +1859,13 @@
       "name": "Infini Picto",
       "category": "symbols",
       "homepage_url": "https://www.cnap.fr/sites/infini/en/project",
-      "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/Infini-Picto.zip",
+      "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/latest/download/infini-picto.zip",
       "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/latest/download/infini-picto.zip",
       "file_format": "zip",
       "license": {
         "spdx": "CC-BY-ND-3.0",
         "url": "https://creativecommons.org/licenses/by-nd/3.0/",
-        "text_url": "https://raw.githubusercontent.com/Mapaor/typst-fonts-mirror/main/licenses/Infini-Picto.txt"
+        "text_url": "https://raw.githubusercontent.com/Mapaor/typst-fonts-mirror/fe31cb591d36076b9cc747c3d2de29fecd85f362/licenses/Infini-Picto.txt"
       },
       "is_variable_font": false,
       "available_weights": [
@@ -3865,7 +3865,7 @@
       "name": "Reforma 1918",
       "category": "serif",
       "homepage_url": "https://pampatype.com/reforma",
-      "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/reforma-1918.zip",
+      "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/latest/download/reforma-1918.zip",
       "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/latest/download/reforma-1918.zip",
       "file_format": "zip",
       "license": {
@@ -3910,7 +3910,7 @@
       "name": "Reforma 1969",
       "category": "serif",
       "homepage_url": "https://pampatype.com/reforma",
-      "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/reforma-1969.zip",
+      "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/latest/download/reforma-1969.zip",
       "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/latest/download/reforma-1969.zip",
       "file_format": "zip",
       "license": {
@@ -3955,7 +3955,7 @@
       "name": "Reforma 2018",
       "category": "sans-serif",
       "homepage_url": "https://pampatype.com/reforma",
-      "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/reforma-2018.zip",
+      "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/latest/download/reforma-2018.zip",
       "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/latest/download/reforma-2018.zip",
       "file_format": "zip",
       "license": {
