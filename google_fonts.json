@@ -1,0 +1,410 @@
+[
+  {
+    "id": "allura",
+    "name": "Allura",
+    "download_url": "https://fonts.google.com/download?family=Allura",
+    "file_format": "zip"
+  },
+  {
+    "id": "atkinson-hyperlegible",
+    "name": "Atkinson Hyperlegible",
+    "download_url": "https://fonts.google.com/download?family=Atkinson+Hyperlegible",
+    "file_format": "zip"
+  },
+  {
+    "id": "atkinson-hyperlegible-mono",
+    "name": "Atkinson Hyperlegible Mono",
+    "download_url": "https://fonts.google.com/download?family=Atkinson+Hyperlegible+Mono",
+    "file_format": "zip"
+  },
+  {
+    "id": "atkinson-hyperlegible-next",
+    "name": "Atkinson Hyperlegible Next",
+    "download_url": "https://fonts.google.com/download?family=Atkinson+Hyperlegible+Next",
+    "file_format": "zip"
+  },
+  {
+    "id": "atma",
+    "name": "Atma",
+    "download_url": "https://fonts.google.com/download?family=Atma",
+    "file_format": "zip"
+  },
+  {
+    "id": "barlow",
+    "name": "Barlow",
+    "download_url": "https://fonts.google.com/download?family=Barlow",
+    "file_format": "zip"
+  },
+  {
+    "id": "buenard",
+    "name": "Buenard",
+    "download_url": "https://fonts.google.com/download?family=Buenard",
+    "file_format": "zip"
+  },
+  {
+    "id": "cantarell",
+    "name": "Cantarell",
+    "download_url": "https://fonts.google.com/download?family=Cantarell",
+    "file_format": "zip"
+  },
+  {
+    "id": "cascadia-code",
+    "name": "Cascadia Code",
+    "download_url": "https://fonts.google.com/download?family=Cascadia+Code",
+    "file_format": "zip"
+  },
+  {
+    "id": "cascadia-mono",
+    "name": "Cascadia Mono",
+    "download_url": "https://fonts.google.com/download?family=Cascadia+Mono",
+    "file_format": "zip"
+  },
+  {
+    "id": "clicker-script",
+    "name": "Clicker Script",
+    "download_url": "https://fonts.google.com/download?family=Clicker+Script",
+    "file_format": "zip"
+  },
+  {
+    "id": "comic-neue",
+    "name": "Comic Neue",
+    "download_url": "https://fonts.google.com/download?family=Comic+Neue",
+    "file_format": "zip"
+  },
+  {
+    "id": "crimson-pro",
+    "name": "Crimson Pro",
+    "download_url": "https://fonts.google.com/download?family=Crimson+Pro",
+    "file_format": "zip"
+  },
+  {
+    "id": "dm-mono",
+    "name": "DM Mono",
+    "download_url": "https://fonts.google.com/download?family=DM+Mono",
+    "file_format": "zip"
+  },
+  {
+    "id": "dm-sans",
+    "name": "DM Sans",
+    "download_url": "https://fonts.google.com/download?family=DM+Sans",
+    "file_format": "zip"
+  },
+  {
+    "id": "dm-sans-9pt",
+    "name": "DM Sans 9pt",
+    "download_url": "https://fonts.google.com/download?family=DM+Sans",
+    "file_format": "zip"
+  },
+  {
+    "id": "dm-serif-display",
+    "name": "DM Serif Display",
+    "download_url": "https://fonts.google.com/download?family=DM+Serif+Display",
+    "file_format": "zip"
+  },
+  {
+    "id": "dm-serif-text",
+    "name": "DM Serif Text",
+    "download_url": "https://fonts.google.com/download?family=DM+Serif+Text",
+    "file_format": "zip"
+  },
+  {
+    "id": "eb-garamond",
+    "name": "EB Garamond",
+    "download_url": "https://fonts.google.com/download?family=EB+Garamond",
+    "file_format": "zip"
+  },
+  {
+    "id": "exo-2",
+    "name": "Exo 2",
+    "download_url": "https://fonts.google.com/download?family=Exo+2",
+    "file_format": "zip"
+  },
+  {
+    "id": "fira-mono",
+    "name": "Fira Mono",
+    "download_url": "https://fonts.google.com/download?family=Fira+Mono",
+    "file_format": "zip"
+  },
+  {
+    "id": "fira-sans",
+    "name": "Fira Sans",
+    "download_url": "https://fonts.google.com/download?family=Fira+Sans",
+    "file_format": "zip"
+  },
+  {
+    "id": "gfs-neohellenic",
+    "name": "GFS Neohellenic",
+    "download_url": "https://fonts.google.com/download?family=GFS+Neohellenic",
+    "file_format": "zip"
+  },
+  {
+    "id": "gfs-neohellenic-math",
+    "name": "GFS Neohellenic Math",
+    "download_url": "https://fonts.google.com/download?family=GFS+Neohellenic",
+    "file_format": "zip"
+  },
+  {
+    "id": "hk-grotesk",
+    "name": "HK Grotesk",
+    "download_url": "https://fonts.google.com/download?family=Hanken+Grotesk",
+    "file_format": "zip"
+  },
+  {
+    "id": "ibm-plex-mono",
+    "name": "IBM Plex Mono",
+    "download_url": "https://fonts.google.com/download?family=IBM+Plex+Mono",
+    "file_format": "zip"
+  },
+  {
+    "id": "ibm-plex-sans",
+    "name": "IBM Plex Sans",
+    "download_url": "https://fonts.google.com/download?family=IBM+Plex+Sans",
+    "file_format": "zip"
+  },
+  {
+    "id": "ibm-plex-serif",
+    "name": "IBM Plex Serif",
+    "download_url": "https://fonts.google.com/download?family=IBM+Plex+Serif",
+    "file_format": "zip"
+  },
+  {
+    "id": "inconsolata",
+    "name": "Inconsolata",
+    "download_url": "https://fonts.google.com/download?family=Inconsolata",
+    "file_format": "zip"
+  },
+  {
+    "id": "inria-sans",
+    "name": "Inria Sans",
+    "download_url": "https://fonts.google.com/download?family=Inria+Sans",
+    "file_format": "zip"
+  },
+  {
+    "id": "inria-serif",
+    "name": "Inria Serif",
+    "download_url": "https://fonts.google.com/download?family=Inria+Serif",
+    "file_format": "zip"
+  },
+  {
+    "id": "inter",
+    "name": "Inter",
+    "download_url": "https://fonts.google.com/download?family=Inter",
+    "file_format": "zip"
+  },
+  {
+    "id": "lato",
+    "name": "Lato",
+    "download_url": "https://fonts.google.com/download?family=Lato",
+    "file_format": "zip"
+  },
+  {
+    "id": "libre-barcode-128",
+    "name": "Libre Barcode 128",
+    "download_url": "https://fonts.google.com/download?family=Libre+Barcode+128",
+    "file_format": "zip"
+  },
+  {
+    "id": "libre-barcode-128-text",
+    "name": "Libre Barcode 128 Text",
+    "download_url": "https://fonts.google.com/download?family=Libre+Barcode+128+Text",
+    "file_format": "zip"
+  },
+  {
+    "id": "libre-baskerville",
+    "name": "Libre Baskerville",
+    "download_url": "https://fonts.google.com/download?family=Libre+Baskerville",
+    "file_format": "zip"
+  },
+  {
+    "id": "manrope",
+    "name": "Manrope",
+    "download_url": "https://fonts.google.com/download?family=Manrope",
+    "file_format": "zip"
+  },
+  {
+    "id": "merriweather",
+    "name": "Merriweather",
+    "download_url": "https://fonts.google.com/download?family=Merriweather",
+    "file_format": "zip"
+  },
+  {
+    "id": "merriweather-7pt",
+    "name": "Merriweather 7pt",
+    "download_url": "https://fonts.google.com/download?family=Merriweather",
+    "file_format": "zip"
+  },
+  {
+    "id": "merriweather-sans",
+    "name": "Merriweather Sans",
+    "download_url": "https://fonts.google.com/download?family=Merriweather+Sans",
+    "file_format": "zip"
+  },
+  {
+    "id": "noto-color-emoji",
+    "name": "Noto Color Emoji",
+    "download_url": "https://fonts.google.com/download?family=Noto+Color+Emoji",
+    "file_format": "zip"
+  },
+  {
+    "id": "noto-emoji",
+    "name": "Noto Emoji",
+    "download_url": "https://fonts.google.com/download?family=Noto+Emoji",
+    "file_format": "zip"
+  },
+  {
+    "id": "noto-sans",
+    "name": "Noto Sans",
+    "download_url": "https://fonts.google.com/download?family=Noto+Sans",
+    "file_format": "zip"
+  },
+  {
+    "id": "noto-sans-display",
+    "name": "Noto Sans Display",
+    "download_url": "https://fonts.google.com/download?family=Noto+Sans+Display",
+    "file_format": "zip"
+  },
+  {
+    "id": "noto-serif",
+    "name": "Noto Serif",
+    "download_url": "https://fonts.google.com/download?family=Noto+Serif",
+    "file_format": "zip"
+  },
+  {
+    "id": "noto-serif-display",
+    "name": "Noto Serif Display",
+    "download_url": "https://fonts.google.com/download?family=Noto+Serif+Display",
+    "file_format": "zip"
+  },
+  {
+    "id": "old-standard",
+    "name": "Old Standard",
+    "download_url": "https://fonts.google.com/download?family=Old+Standard+TT",
+    "file_format": "zip"
+  },
+  {
+    "id": "old-standard-math",
+    "name": "OldStandard-Math",
+    "download_url": "https://fonts.google.com/download?family=Old+Standard+TT",
+    "file_format": "zip"
+  },
+  {
+    "id": "permanent-marker",
+    "name": "Permanent Marker",
+    "download_url": "https://fonts.google.com/download?family=Permanent+Marker",
+    "file_format": "zip"
+  },
+  {
+    "id": "pt-mono",
+    "name": "PT Mono",
+    "download_url": "https://fonts.google.com/download?family=PT+Mono",
+    "file_format": "zip"
+  },
+  {
+    "id": "pt-sans",
+    "name": "PT Sans",
+    "download_url": "https://fonts.google.com/download?family=PT+Sans",
+    "file_format": "zip"
+  },
+  {
+    "id": "pt-sans-caption",
+    "name": "PT Sans Caption",
+    "download_url": "https://fonts.google.com/download?family=PT+Sans+Caption",
+    "file_format": "zip"
+  },
+  {
+    "id": "pt-serif",
+    "name": "PT Serif",
+    "download_url": "https://fonts.google.com/download?family=PT+Serif",
+    "file_format": "zip"
+  },
+  {
+    "id": "public-sans",
+    "name": "Public Sans",
+    "download_url": "https://fonts.google.com/download?family=Public+Sans",
+    "file_format": "zip"
+  },
+  {
+    "id": "roboto-mono",
+    "name": "Roboto Mono",
+    "download_url": "https://fonts.google.com/download?family=Roboto+Mono",
+    "file_format": "zip"
+  },
+  {
+    "id": "roboto-serif",
+    "name": "Roboto Serif",
+    "download_url": "https://fonts.google.com/download?family=Roboto+Serif",
+    "file_format": "zip"
+  },
+  {
+    "id": "roboto-serif-20pt",
+    "name": "Roboto Serif 20pt",
+    "download_url": "https://fonts.google.com/download?family=Roboto+Serif",
+    "file_format": "zip"
+  },
+  {
+    "id": "roboto-slab",
+    "name": "Roboto Slab",
+    "download_url": "https://fonts.google.com/download?family=Roboto+Slab",
+    "file_format": "zip"
+  },
+  {
+    "id": "source-code-pro",
+    "name": "Source Code Pro",
+    "download_url": "https://fonts.google.com/download?family=Source+Code+Pro",
+    "file_format": "zip"
+  },
+  {
+    "id": "source-sans-pro",
+    "name": "Source Sans Pro",
+    "download_url": "https://fonts.google.com/download?family=Source+Sans+3",
+    "file_format": "zip"
+  },
+  {
+    "id": "source-serif-pro",
+    "name": "Source Serif Pro",
+    "download_url": "https://fonts.google.com/download?family=Source+Serif+4",
+    "file_format": "zip"
+  },
+  {
+    "id": "spectral",
+    "name": "Spectral",
+    "download_url": "https://fonts.google.com/download?family=Spectral",
+    "file_format": "zip"
+  },
+  {
+    "id": "stix-two-math",
+    "name": "STIX Two Math",
+    "download_url": "https://fonts.google.com/download?family=STIX+Two+Math",
+    "file_format": "zip"
+  },
+  {
+    "id": "stix-two-text",
+    "name": "STIX Two Text",
+    "download_url": "https://fonts.google.com/download?family=STIX+Two+Text",
+    "file_format": "zip"
+  },
+  {
+    "id": "syne",
+    "name": "Syne",
+    "download_url": "https://fonts.google.com/download?family=Syne",
+    "file_format": "zip"
+  },
+  {
+    "id": "syne-mono",
+    "name": "Syne Mono",
+    "download_url": "https://fonts.google.com/download?family=Syne+Mono",
+    "file_format": "zip"
+  },
+  {
+    "id": "syne-tactile",
+    "name": "Syne Tactile",
+    "download_url": "https://fonts.google.com/download?family=Syne+Tactile",
+    "file_format": "zip"
+  },
+  {
+    "id": "vollkorn",
+    "name": "Vollkorn",
+    "download_url": "https://fonts.google.com/download?family=Vollkorn",
+    "file_format": "zip"
+  }
+]
