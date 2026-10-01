@@ -1,4 +1,4 @@
-# As of 2026-30-09 all links in fonts_index.json pass the check of this script.
+# As of 2026-02-10 all links in fonts_index.json pass the check of this script.
 
 [CmdletBinding()]
 param(
