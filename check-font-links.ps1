@@ -93,7 +93,7 @@ Write-Output ''
 Write-Output "Checked $($results.Count) links for $($index.fonts.Count) fonts."
 Write-Output "Failed: $($failed.Count)"
 Write-Output "Success: $($results.Count - $failed.Count)"
-if (failed.count == 0) {
+if ($failed.Count -eq 0) {
     Write-Output "All links were successful 🎉!"
 }
 
