@@ -16,6 +16,7 @@ $index = Get-Content -LiteralPath $IndexPath -Raw | ConvertFrom-Json
 $checks = @(
     @{ Name = 'homepage_url'; GetUrl = { param($font) $font.homepage_url } },
     @{ Name = 'download_url'; GetUrl = { param($font) $font.download_url } },
+    @{ Name = 'mirror_download_url'; GetUrl = { param($font) $font.mirror_download_url } },
     @{ Name = 'license.url'; GetUrl = { param($font) $font.license.url } },
     @{ Name = 'license.text_url'; GetUrl = { param($font) $font.license.text_url } }
 )
