@@ -8,9 +8,11 @@
       "category": "handwriting",
       "homepage_url": "https://github.com/google/fonts/tree/main/ofl/allura",
       "download_url": "https://fonts.google.com/download?family=Allura",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/allura.zip",
-      "mirror_sha256": "1179aed56592f432549abddb75272c15f2e1b497bb686ee8623ab0bbb3068c66",
-      "mirror_size_bytes": 239015,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/allura.zip",
+        "mirror_sha256": "1179aed56592f432549abddb75272c15f2e1b497bb686ee8623ab0bbb3068c66",
+        "mirror_size_bytes": 239015
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -36,9 +38,11 @@
       "category": "sans-serif",
       "homepage_url": "https://www.brailleinstitute.org/freefont/",
       "download_url": "https://fonts.google.com/download?family=Atkinson+Hyperlegible",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/atkinson-hyperlegible.zip",
-      "mirror_sha256": "3712b802ba03f7264dd41715ef126a1ded9a9665f16415b9c801fd84b3bafcd1",
-      "mirror_size_bytes": 221897,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/atkinson-hyperlegible.zip",
+        "mirror_sha256": "3712b802ba03f7264dd41715ef126a1ded9a9665f16415b9c801fd84b3bafcd1",
+        "mirror_size_bytes": 221897
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -83,9 +87,11 @@
       "category": "monospace",
       "homepage_url": "https://www.brailleinstitute.org/freefont/",
       "download_url": "https://fonts.google.com/download?family=Atkinson+Hyperlegible+Mono",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/atkinson-hyperlegible-mono.zip",
-      "mirror_sha256": "d56f1ad37f175a8ff6261214e780b576cd35e7f134542eb0a8ab82243355448b",
-      "mirror_size_bytes": 610100,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/atkinson-hyperlegible-mono.zip",
+        "mirror_sha256": "d56f1ad37f175a8ff6261214e780b576cd35e7f134542eb0a8ab82243355448b",
+        "mirror_size_bytes": 610100
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -130,9 +136,11 @@
       "category": "sans-serif",
       "homepage_url": "https://www.brailleinstitute.org/freefont",
       "download_url": "https://fonts.google.com/download?family=Atkinson+Hyperlegible+Next",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/atkinson-hyperlegible-next.zip",
-      "mirror_sha256": "7819fcf9f2386812f9780d67a4f46b43dfaa07be7bbe5943691d30ef5512937b",
-      "mirror_size_bytes": 950251,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/atkinson-hyperlegible-next.zip",
+        "mirror_sha256": "7819fcf9f2386812f9780d67a4f46b43dfaa07be7bbe5943691d30ef5512937b",
+        "mirror_size_bytes": 950251
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -154,9 +162,11 @@
       "category": "display",
       "homepage_url": "https://github.com/BlackFoundryCom/Atma",
       "download_url": "https://fonts.google.com/download?family=Atma",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/atma.zip",
-      "mirror_sha256": "ca2536c77cc65efd0a30137f760593951f1262049d6da18b24888e52faed8689",
-      "mirror_size_bytes": 1074965,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/atma.zip",
+        "mirror_sha256": "ca2536c77cc65efd0a30137f760593951f1262049d6da18b24888e52faed8689",
+        "mirror_size_bytes": 1074965
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -210,9 +220,11 @@
       "category": "sans-serif",
       "homepage_url": "https://github.com/jpt/barlow",
       "download_url": "https://fonts.google.com/download?family=Barlow",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/barlow.zip",
-      "mirror_sha256": "a91a32cdafbe8f73c3583f836864bf77ab4f2964fe90f34b75a957d718203635",
-      "mirror_size_bytes": 1857461,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/barlow.zip",
+        "mirror_sha256": "a91a32cdafbe8f73c3583f836864bf77ab4f2964fe90f34b75a957d718203635",
+        "mirror_size_bytes": 1857461
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -348,9 +360,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/google/fonts/tree/main/ofl/buenard",
       "download_url": "https://fonts.google.com/download?family=Buenard",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/buenard.zip",
-      "mirror_sha256": "497c57d36eafe6a14b5b8b8011bc324663a2843f41bbb32835bf58e025541d97",
-      "mirror_size_bytes": 271034,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/buenard.zip",
+        "mirror_sha256": "497c57d36eafe6a14b5b8b8011bc324663a2843f41bbb32835bf58e025541d97",
+        "mirror_size_bytes": 271034
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -383,9 +397,11 @@
       "category": "sans-serif",
       "homepage_url": "https://gitlab.gnome.org/GNOME/cantarell-fonts",
       "download_url": "https://fonts.google.com/download?family=Cantarell",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/cantarell.zip",
-      "mirror_sha256": "f3861f12218974716065a6876e355a244330b7f6e7233fdd6739598d0f23914e",
-      "mirror_size_bytes": 184628,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/cantarell.zip",
+        "mirror_sha256": "f3861f12218974716065a6876e355a244330b7f6e7233fdd6739598d0f23914e",
+        "mirror_size_bytes": 184628
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -407,9 +423,11 @@
       "category": "monospace",
       "homepage_url": "https://github.com/microsoft/cascadia-code",
       "download_url": "https://fonts.google.com/download?family=Cascadia+Code",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/cascadia-code.zip",
-      "mirror_sha256": "b33a9cea2479c1d45699dccbac36ae9e1bcb02496bc66c0a80947fe9f9bf239f",
-      "mirror_size_bytes": 6215970,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/cascadia-code.zip",
+        "mirror_sha256": "b33a9cea2479c1d45699dccbac36ae9e1bcb02496bc66c0a80947fe9f9bf239f",
+        "mirror_size_bytes": 6215970
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -431,9 +449,11 @@
       "category": "monospace",
       "homepage_url": "https://github.com/microsoft/cascadia-code",
       "download_url": "https://fonts.google.com/download?family=Cascadia+Mono",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/cascadia-mono.zip",
-      "mirror_sha256": "57c65f8ea84af099d785bb5ec37a0d686db6529fc5241dccc36b7815c86e3c3c",
-      "mirror_size_bytes": 5447890,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/cascadia-mono.zip",
+        "mirror_sha256": "57c65f8ea84af099d785bb5ec37a0d686db6529fc5241dccc36b7815c86e3c3c",
+        "mirror_size_bytes": 5447890
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -455,9 +475,11 @@
       "category": "serif",
       "homepage_url": "https://practicaltypography.com/charter.html",
       "download_url": "https://practicaltypography.com/fonts/Charter%20210112.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/charter.zip",
-      "mirror_sha256": "d23538147d1722ef8e50fb944ff2a3d1a6fffcd4130a027ae2bbb787731ce311",
-      "mirror_size_bytes": 94203,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/charter.zip",
+        "mirror_sha256": "d23538147d1722ef8e50fb944ff2a3d1a6fffcd4130a027ae2bbb787731ce311",
+        "mirror_size_bytes": 94203
+      },
       "file_format": "zip",
       "license": {
         "spdx": "Bitstream-Vera",
@@ -502,9 +524,11 @@
       "category": "handwriting",
       "homepage_url": "https://github.com/google/fonts/tree/main/ofl/clickerscript",
       "download_url": "https://fonts.google.com/download?family=Clicker+Script",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/clicker-script.zip",
-      "mirror_sha256": "0e25eb4f5ebcf82f5516b2cd99a052325ffd7effa50b4b6baf504655db006018",
-      "mirror_size_bytes": 65781,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/clicker-script.zip",
+        "mirror_sha256": "0e25eb4f5ebcf82f5516b2cd99a052325ffd7effa50b4b6baf504655db006018",
+        "mirror_size_bytes": 65781
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -530,9 +554,11 @@
       "category": "sans-serif",
       "homepage_url": "https://github.com/crozynski/comicneue",
       "download_url": "https://fonts.google.com/download?family=Comic+Neue",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/comic-neue.zip",
-      "mirror_sha256": "8e6123fd04af2280182186a21f721c73c6a0ecfa45b07b8ab44b56400f9e88d7",
-      "mirror_size_bytes": 323594,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/comic-neue.zip",
+        "mirror_sha256": "8e6123fd04af2280182186a21f721c73c6a0ecfa45b07b8ab44b56400f9e88d7",
+        "mirror_size_bytes": 323594
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -590,9 +616,11 @@
       "category": "sans-serif",
       "homepage_url": "https://github.com/crozynski/comicneue",
       "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/comic-neue-angular.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/comic-neue-angular.zip",
-      "mirror_sha256": "5a4c41bfad3851b41f803b77254f0c74e79d7f3b3f0302d46c2d8cc005bb2aa7",
-      "mirror_size_bytes": 106640,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/comic-neue-angular.zip",
+        "mirror_sha256": "5a4c41bfad3851b41f803b77254f0c74e79d7f3b3f0302d46c2d8cc005bb2aa7",
+        "mirror_size_bytes": 106640
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -650,9 +678,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/Fonthausen/CrimsonPro",
       "download_url": "https://fonts.google.com/download?family=Crimson+Pro",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/crimson-pro.zip",
-      "mirror_sha256": "bc9323d01328607c546f0923d89fd82ae741d5a9bb7c2d60f0e538b0588a460a",
-      "mirror_size_bytes": 2240485,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/crimson-pro.zip",
+        "mirror_sha256": "bc9323d01328607c546f0923d89fd82ae741d5a9bb7c2d60f0e538b0588a460a",
+        "mirror_size_bytes": 2240485
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -674,9 +704,11 @@
       "category": "math",
       "homepage_url": "https://github.com/dejavu-fonts/dejavu-fonts",
       "download_url": "https://github.com/dejavu-fonts/dejavu-fonts/releases/download/version_2_37/dejavu-fonts-ttf-2.37.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/dejavu-math-tex-gyre.zip",
-      "mirror_sha256": "aa400b312ff4f89eb72f1d773ebbdbdf0e17f232c5a9a266fa1f84a277207757",
-      "mirror_size_bytes": 270024,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/dejavu-math-tex-gyre.zip",
+        "mirror_sha256": "aa400b312ff4f89eb72f1d773ebbdbdf0e17f232c5a9a266fa1f84a277207757",
+        "mirror_size_bytes": 270024
+      },
       "file_format": "zip",
       "license": {
         "spdx": "LPPL-1.3c",
@@ -702,9 +734,11 @@
       "category": "sans-serif",
       "homepage_url": "https://dejavu-fonts.github.io/",
       "download_url": "https://github.com/dejavu-fonts/dejavu-fonts/releases/download/version_2_37/dejavu-fonts-ttf-2.37.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/dejavu-sans.zip",
-      "mirror_sha256": "a1c7b0358dfd5c94d1caad8a36b0e63787d7233a5c4d2a119358c98463ba0e64",
-      "mirror_size_bytes": 2846539,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/dejavu-sans.zip",
+        "mirror_sha256": "a1c7b0358dfd5c94d1caad8a36b0e63787d7233a5c4d2a119358c98463ba0e64",
+        "mirror_size_bytes": 2846539
+      },
       "file_format": "zip",
       "license": {
         "spdx": "Bitstream-Vera",
@@ -773,9 +807,11 @@
       "category": "monospace",
       "homepage_url": "https://dejavu-fonts.github.io/",
       "download_url": "https://github.com/dejavu-fonts/dejavu-fonts/releases/download/version_2_37/dejavu-fonts-ttf-2.37.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/dejavu-sans-mono.zip",
-      "mirror_sha256": "b894570bc4306cebe0dd298c65c649fc8230a70f65633354ee030bffcacc9c87",
-      "mirror_size_bytes": 706309,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/dejavu-sans-mono.zip",
+        "mirror_sha256": "b894570bc4306cebe0dd298c65c649fc8230a70f65633354ee030bffcacc9c87",
+        "mirror_size_bytes": 706309
+      },
       "file_format": "zip",
       "license": {
         "spdx": "Bitstream-Vera",
@@ -820,9 +856,11 @@
       "category": "serif",
       "homepage_url": "https://dejavu-fonts.github.io/",
       "download_url": "https://github.com/dejavu-fonts/dejavu-fonts/releases/download/version_2_37/dejavu-fonts-ttf-2.37.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/dejavu-serif.zip",
-      "mirror_sha256": "9a801360d0f3145e906eb83f98947bbb0dfb03a221e595a41a6c97a3f859fb06",
-      "mirror_size_bytes": 1568581,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/dejavu-serif.zip",
+        "mirror_sha256": "9a801360d0f3145e906eb83f98947bbb0dfb03a221e595a41a6c97a3f859fb06",
+        "mirror_size_bytes": 1568581
+      },
       "file_format": "zip",
       "license": {
         "spdx": "Bitstream-Vera",
@@ -891,9 +929,11 @@
       "category": "monospace",
       "homepage_url": "https://github.com/googlefonts/dm-mono",
       "download_url": "https://fonts.google.com/download?family=DM+Mono",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/dm-mono.zip",
-      "mirror_sha256": "e5a1c0ea0f65f9d045c1b2975290ed70f420008a132c123f399a94e6cc043118",
-      "mirror_size_bytes": 305491,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/dm-mono.zip",
+        "mirror_sha256": "e5a1c0ea0f65f9d045c1b2975290ed70f420008a132c123f399a94e6cc043118",
+        "mirror_size_bytes": 305491
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -951,9 +991,11 @@
       "category": "sans-serif",
       "homepage_url": "https://github.com/googlefonts/dm-fonts",
       "download_url": "https://fonts.google.com/download?family=DM+Sans",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/dm-sans.zip",
-      "mirror_sha256": "0e255ce3789c90ee949b775425b92b1ffdbcac3097797f604814d53d98c29615",
-      "mirror_size_bytes": 4776045,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/dm-sans.zip",
+        "mirror_sha256": "0e255ce3789c90ee949b775425b92b1ffdbcac3097797f604814d53d98c29615",
+        "mirror_size_bytes": 4776045
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -975,9 +1017,11 @@
       "category": "sans-serif",
       "homepage_url": "https://github.com/googlefonts/dm-fonts",
       "download_url": "https://fonts.google.com/download?family=DM+Sans",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/dm-sans-9pt.zip",
-      "mirror_sha256": "1d59d786c40e6f8c8de4b39bd608b3d6b328b2b095cc7d62122d3aa5001464ae",
-      "mirror_size_bytes": 4776045,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/dm-sans-9pt.zip",
+        "mirror_sha256": "1d59d786c40e6f8c8de4b39bd608b3d6b328b2b095cc7d62122d3aa5001464ae",
+        "mirror_size_bytes": 4776045
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -1035,9 +1079,11 @@
       "category": "display",
       "homepage_url": "https://github.com/googlefonts/dm-fonts",
       "download_url": "https://fonts.google.com/download?family=DM+Serif+Display",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/dm-serif-display.zip",
-      "mirror_sha256": "311b57b0c397dd5f3b96883b54d60684c10c82fb156f5662f651e62a17a07e58",
-      "mirror_size_bytes": 147540,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/dm-serif-display.zip",
+        "mirror_sha256": "311b57b0c397dd5f3b96883b54d60684c10c82fb156f5662f651e62a17a07e58",
+        "mirror_size_bytes": 147540
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -1069,9 +1115,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/googlefonts/dm-fonts",
       "download_url": "https://fonts.google.com/download?family=DM+Serif+Text",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/dm-serif-text.zip",
-      "mirror_sha256": "4858490e1b3e961aab89086826c38166c274e90c73f91af65d896c14f0b3bb80",
-      "mirror_size_bytes": 149256,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/dm-serif-text.zip",
+        "mirror_sha256": "4858490e1b3e961aab89086826c38166c274e90c73f91af65d896c14f0b3bb80",
+        "mirror_size_bytes": 149256
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -1103,9 +1151,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/octaviopardo/EBGaramond12",
       "download_url": "https://fonts.google.com/download?family=EB+Garamond",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/eb-garamond.zip",
-      "mirror_sha256": "975c50da06e56835ce4b7ea42563b25b39f023858837f589fe91738866763a24",
-      "mirror_size_bytes": 6209217,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/eb-garamond.zip",
+        "mirror_sha256": "975c50da06e56835ce4b7ea42563b25b39f023858837f589fe91738866763a24",
+        "mirror_size_bytes": 6209217
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -1127,9 +1177,11 @@
       "category": "sans-serif",
       "homepage_url": "https://github.com/NDISCOVER/Exo-2.0",
       "download_url": "https://fonts.google.com/download?family=Exo+2",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/exo-2.zip",
-      "mirror_sha256": "b0f5dd99e4cba500a801cda39803dd3bc62afa3d200bbb42a1b808b1d8a8798b",
-      "mirror_size_bytes": 3340107,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/exo-2.zip",
+        "mirror_sha256": "b0f5dd99e4cba500a801cda39803dd3bc62afa3d200bbb42a1b808b1d8a8798b",
+        "mirror_size_bytes": 3340107
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -1151,9 +1203,11 @@
       "category": "monospace",
       "homepage_url": "https://github.com/belluzj/fantasque-sans",
       "download_url": "https://github.com/belluzj/fantasque-sans/releases/latest/download/FantasqueSansMono-Normal.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/fantasque-sans-mono.zip",
-      "mirror_sha256": "5d0d3fcf425381b6145e2536a80bae121ee0f46a8acdf2e14ce01558ff9a7cac",
-      "mirror_size_bytes": 324390,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/fantasque-sans-mono.zip",
+        "mirror_sha256": "5d0d3fcf425381b6145e2536a80bae121ee0f46a8acdf2e14ce01558ff9a7cac",
+        "mirror_size_bytes": 324390
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -1198,9 +1252,11 @@
       "category": "monospace",
       "homepage_url": "https://github.com/tonsky/FiraCode",
       "download_url": "https://github.com/tonsky/FiraCode/releases/latest/download/Fira_Code_v6.2.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/fira-code.zip",
-      "mirror_sha256": "fb6bb846486c35d5c20cb6f759e4541effd5d9428e5bbba59a4007bde1614023",
-      "mirror_size_bytes": 148735,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/fira-code.zip",
+        "mirror_sha256": "fb6bb846486c35d5c20cb6f759e4541effd5d9428e5bbba59a4007bde1614023",
+        "mirror_size_bytes": 148735
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -1222,9 +1278,11 @@
       "category": "math",
       "homepage_url": "https://github.com/firamath/firamath",
       "download_url": "https://mirrors.ctan.org/fonts/firamath.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/fira-math.zip",
-      "mirror_sha256": "05cbc1e51899be14119d80e30fb58f48641040d3cfe30c3fa96afda6960791b5",
-      "mirror_size_bytes": 121793,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/fira-math.zip",
+        "mirror_sha256": "05cbc1e51899be14119d80e30fb58f48641040d3cfe30c3fa96afda6960791b5",
+        "mirror_size_bytes": 121793
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -1250,9 +1308,11 @@
       "category": "monospace",
       "homepage_url": "https://github.com/mozilla/Fira",
       "download_url": "https://fonts.google.com/download?family=Fira+Mono",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/fira-mono.zip",
-      "mirror_sha256": "a0074871fd41654426bc25dd51290f80b50818058aa29b9259efb64f99d94355",
-      "mirror_size_bytes": 545910,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/fira-mono.zip",
+        "mirror_sha256": "a0074871fd41654426bc25dd51290f80b50818058aa29b9259efb64f99d94355",
+        "mirror_size_bytes": 545910
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -1292,9 +1352,11 @@
       "category": "sans-serif",
       "homepage_url": "https://github.com/mozilla/Fira",
       "download_url": "https://fonts.google.com/download?family=Fira+Sans",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/fira-sans.zip",
-      "mirror_sha256": "14dc925c457942b11a8f12d057fb012b9aa936eb193f36c69dacdffe40b62e93",
-      "mirror_size_bytes": 8364079,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/fira-sans.zip",
+        "mirror_sha256": "14dc925c457942b11a8f12d057fb012b9aa936eb193f36c69dacdffe40b62e93",
+        "mirror_size_bytes": 8364079
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -1430,9 +1492,11 @@
       "category": "sans-serif",
       "homepage_url": "https://greekfontsociety-gfs.gr/",
       "download_url": "https://fonts.google.com/download?family=GFS+Neohellenic",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/gfs-neohellenic.zip",
-      "mirror_sha256": "d5b4c588aa970ba6aab63184f2684a53c7026f39db35d4af86ee00466a079c22",
-      "mirror_size_bytes": 1507145,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/gfs-neohellenic.zip",
+        "mirror_sha256": "d5b4c588aa970ba6aab63184f2684a53c7026f39db35d4af86ee00466a079c22",
+        "mirror_size_bytes": 1507145
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -1477,9 +1541,11 @@
       "category": "math",
       "homepage_url": "https://greekfontsociety-gfs.gr/",
       "download_url": "https://fonts.google.com/download?family=GFS+Neohellenic",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/gfs-neohellenic-math.zip",
-      "mirror_sha256": "7940e7b0ccf5c208b4d68e1da381a1c80e7451037783c6a6cf7d9350265e3ca5",
-      "mirror_size_bytes": 1507145,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/gfs-neohellenic-math.zip",
+        "mirror_sha256": "7940e7b0ccf5c208b4d68e1da381a1c80e7451037783c6a6cf7d9350265e3ca5",
+        "mirror_size_bytes": 1507145
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -1505,9 +1571,11 @@
       "category": "sans-serif",
       "homepage_url": "https://github.com/trueroad/HaranoAjiFonts",
       "download_url": "https://github.com/trueroad/HaranoAjiFonts/archive/refs/heads/master.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/harano-aji-gothic.zip",
-      "mirror_sha256": "722120c2167deff45dce30a6222703ca8f9c85544a1e7a7a0281aa78e5d3170e",
-      "mirror_size_bytes": 28328936,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/harano-aji-gothic.zip",
+        "mirror_sha256": "722120c2167deff45dce30a6222703ca8f9c85544a1e7a7a0281aa78e5d3170e",
+        "mirror_size_bytes": 28328936
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -1575,9 +1643,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/trueroad/HaranoAjiFonts",
       "download_url": "https://github.com/trueroad/HaranoAjiFonts/archive/refs/heads/master.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/harano-aji-mincho.zip",
-      "mirror_sha256": "4f4776da64c6b14936a6256c6def01a018f4b3b6760ada3c266f718b4a8b67bf",
-      "mirror_size_bytes": 38050912,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/harano-aji-mincho.zip",
+        "mirror_sha256": "4f4776da64c6b14936a6256c6def01a018f4b3b6760ada3c266f718b4a8b67bf",
+        "mirror_size_bytes": 38050912
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -1639,9 +1709,11 @@
       "category": "sans-serif",
       "homepage_url": "https://github.com/HankenDesignCo/HK-Grotesk",
       "download_url": "https://fonts.google.com/download?family=Hanken+Grotesk",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/hk-grotesk.zip",
-      "mirror_sha256": "d63680d92a6310cbaaf8b4938338d1243e152927fd60ce3131a6a7f53a98d631",
-      "mirror_size_bytes": 1518128,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/hk-grotesk.zip",
+        "mirror_sha256": "d63680d92a6310cbaaf8b4938338d1243e152927fd60ce3131a6a7f53a98d631",
+        "mirror_size_bytes": 1518128
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -1663,9 +1735,11 @@
       "category": "monospace",
       "homepage_url": "https://github.com/IBM/plex",
       "download_url": "https://fonts.google.com/download?family=IBM+Plex+Mono",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/ibm-plex-mono.zip",
-      "mirror_sha256": "3e75981f702f9a764e7f4c436db006909d12d18490cc2d91ba2665f2a02d5fb5",
-      "mirror_size_bytes": 1954734,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/ibm-plex-mono.zip",
+        "mirror_sha256": "3e75981f702f9a764e7f4c436db006909d12d18490cc2d91ba2665f2a02d5fb5",
+        "mirror_size_bytes": 1954734
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -1733,9 +1807,11 @@
       "category": "sans-serif",
       "homepage_url": "https://github.com/IBM/plex",
       "download_url": "https://fonts.google.com/download?family=IBM+Plex+Sans",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/ibm-plex-sans.zip",
-      "mirror_sha256": "04e532e0c46b8ea61df2fa42453e8dc1cc31b8911570ab31590db36a27192ef7",
-      "mirror_size_bytes": 10645620,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/ibm-plex-sans.zip",
+        "mirror_sha256": "04e532e0c46b8ea61df2fa42453e8dc1cc31b8911570ab31590db36a27192ef7",
+        "mirror_size_bytes": 10645620
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -1803,9 +1879,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/IBM/plex",
       "download_url": "https://fonts.google.com/download?family=IBM+Plex+Serif",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/ibm-plex-serif.zip",
-      "mirror_sha256": "af26b41bc1b91d0dbd8dd53d545b13c0bd54057a310fa7e6abcf1f227ebde025",
-      "mirror_size_bytes": 2314746,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/ibm-plex-serif.zip",
+        "mirror_sha256": "af26b41bc1b91d0dbd8dd53d545b13c0bd54057a310fa7e6abcf1f227ebde025",
+        "mirror_size_bytes": 2314746
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -1873,9 +1951,11 @@
       "category": "monospace",
       "homepage_url": "https://github.com/googlefonts/Inconsolata",
       "download_url": "https://fonts.google.com/download?family=Inconsolata",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/inconsolata.zip",
-      "mirror_sha256": "e2763b68bf0d9c1de3523c4bee0f35cc4dcdcadc7a730fdc5a409bc05a16acf9",
-      "mirror_size_bytes": 7737914,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/inconsolata.zip",
+        "mirror_sha256": "e2763b68bf0d9c1de3523c4bee0f35cc4dcdcadc7a730fdc5a409bc05a16acf9",
+        "mirror_size_bytes": 7737914
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -1901,9 +1981,11 @@
       "category": "sans-serif",
       "homepage_url": "https://www.cnap.fr/sites/infini/en/project",
       "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/latest/download/infini.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/infini.zip",
-      "mirror_sha256": "402f063503944be631d551318da3492ee263fd7d484c5ccfd66b2e9b3ac30dea",
-      "mirror_size_bytes": 185183,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/infini.zip",
+        "mirror_sha256": "402f063503944be631d551318da3492ee263fd7d484c5ccfd66b2e9b3ac30dea",
+        "mirror_size_bytes": 185183
+      },
       "file_format": "zip",
       "license": {
         "spdx": "CC-BY-ND-3.0",
@@ -1942,9 +2024,11 @@
       "category": "symbols",
       "homepage_url": "https://www.cnap.fr/sites/infini/en/project",
       "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/latest/download/infini-picto.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/infini-picto.zip",
-      "mirror_sha256": "c5b992fba8efaf069be73b94eb3559b200aec4cbe714aa4d6f1c4fb272a69e5a",
-      "mirror_size_bytes": 11810,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/infini-picto.zip",
+        "mirror_sha256": "c5b992fba8efaf069be73b94eb3559b200aec4cbe714aa4d6f1c4fb272a69e5a",
+        "mirror_size_bytes": 11810
+      },
       "file_format": "zip",
       "license": {
         "spdx": "CC-BY-ND-3.0",
@@ -1970,9 +2054,11 @@
       "category": "sans-serif",
       "homepage_url": "https://github.com/BlackFoundryCom/InriaFonts",
       "download_url": "https://fonts.google.com/download?family=Inria+Sans",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/inria-sans.zip",
-      "mirror_sha256": "9c36adbddfaa6c30e3defa65b03148192e4eb952b1d7ff030cbc1444948272ff",
-      "mirror_size_bytes": 508157,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/inria-sans.zip",
+        "mirror_sha256": "9c36adbddfaa6c30e3defa65b03148192e4eb952b1d7ff030cbc1444948272ff",
+        "mirror_size_bytes": 508157
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2030,9 +2116,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/BlackFoundryCom/InriaFonts",
       "download_url": "https://fonts.google.com/download?family=Inria+Serif",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/inria-serif.zip",
-      "mirror_sha256": "9c317b6ea6f7bb7bd627a0ea1f833823d1b69bd88d0b1b4d4b5a49c20229dce6",
-      "mirror_size_bytes": 597594,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/inria-serif.zip",
+        "mirror_sha256": "9c317b6ea6f7bb7bd627a0ea1f833823d1b69bd88d0b1b4d4b5a49c20229dce6",
+        "mirror_size_bytes": 597594
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2090,9 +2178,11 @@
       "category": "sans-serif",
       "homepage_url": "https://rsms.me/inter/",
       "download_url": "https://fonts.google.com/download?family=Inter",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/inter.zip",
-      "mirror_sha256": "f049c09e61ac928aa3bd042034899a55371bfcc802b983464d9326db6ef2dca9",
-      "mirror_size_bytes": 20458296,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/inter.zip",
+        "mirror_sha256": "f049c09e61ac928aa3bd042034899a55371bfcc802b983464d9326db6ef2dca9",
+        "mirror_size_bytes": 20458296
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2118,9 +2208,11 @@
       "category": "monospace",
       "homepage_url": "https://juliamono.netlify.app/",
       "download_url": "https://github.com/cormullion/juliamono/releases/latest/download/JuliaMono.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/juliamono.zip",
-      "mirror_sha256": "dfcd3a6c2baeb9705ece2818bd83a3e76379ed78661e7a70e8c4ae4c01552e3e",
-      "mirror_size_bytes": 21759512,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/juliamono.zip",
+        "mirror_sha256": "dfcd3a6c2baeb9705ece2818bd83a3e76379ed78661e7a70e8c4ae4c01552e3e",
+        "mirror_size_bytes": 21759512
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2153,9 +2245,11 @@
       "category": "sans-serif",
       "homepage_url": "https://www.latofonts.com/",
       "download_url": "https://fonts.google.com/download?family=Lato",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/lato.zip",
-      "mirror_sha256": "e9f465f3681b9a0940152e0afd1adc40006932c1e6cc077064f0890567bedad2",
-      "mirror_size_bytes": 694359,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/lato.zip",
+        "mirror_sha256": "e9f465f3681b9a0940152e0afd1adc40006932c1e6cc077064f0890567bedad2",
+        "mirror_size_bytes": 694359
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2200,9 +2294,11 @@
       "category": "math",
       "homepage_url": "https://github.com/abccsss/LeteSansMath",
       "download_url": "https://github.com/abccsss/LeteSansMath/archive/refs/heads/master.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/lete-sans-math.zip",
-      "mirror_sha256": "df3064fe9a027c70e9e9b17a79301163341571816f39a38d40c79d48ef161863",
-      "mirror_size_bytes": 413156,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/lete-sans-math.zip",
+        "mirror_sha256": "df3064fe9a027c70e9e9b17a79301163341571816f39a38d40c79d48ef161863",
+        "mirror_size_bytes": 413156
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2228,9 +2324,11 @@
       "category": "monospace",
       "homepage_url": "https://github.com/liberationfonts/liberation-fonts",
       "download_url": "https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/liberation-mono.zip",
-      "mirror_sha256": "95d3bbba64c00e0cf605f04278afa49c12ba761be479881ddc2ce8eab16f35d9",
-      "mirror_size_bytes": 687138,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/liberation-mono.zip",
+        "mirror_sha256": "95d3bbba64c00e0cf605f04278afa49c12ba761be479881ddc2ce8eab16f35d9",
+        "mirror_size_bytes": 687138
+      },
       "file_format": "tar.gz",
       "license": {
         "spdx": "OFL-1.1",
@@ -2275,9 +2373,11 @@
       "category": "sans-serif",
       "homepage_url": "https://github.com/liberationfonts/liberation-fonts",
       "download_url": "https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/liberation-sans.zip",
-      "mirror_sha256": "389567a1b4bacaa1154ebedc28f001df092df4610b8820e0d4f653c4e06e705d",
-      "mirror_size_bytes": 857101,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/liberation-sans.zip",
+        "mirror_sha256": "389567a1b4bacaa1154ebedc28f001df092df4610b8820e0d4f653c4e06e705d",
+        "mirror_size_bytes": 857101
+      },
       "file_format": "tar.gz",
       "license": {
         "spdx": "OFL-1.1",
@@ -2322,9 +2422,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/liberationfonts/liberation-fonts",
       "download_url": "https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/liberation-serif.zip",
-      "mirror_sha256": "de4955ff163f8d01880eeddf07a91ecfc2825495c87182bbd19ada4379ccd7b2",
-      "mirror_size_bytes": 837350,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/liberation-serif.zip",
+        "mirror_sha256": "de4955ff163f8d01880eeddf07a91ecfc2825495c87182bbd19ada4379ccd7b2",
+        "mirror_size_bytes": 837350
+      },
       "file_format": "tar.gz",
       "license": {
         "spdx": "OFL-1.1",
@@ -2369,9 +2471,11 @@
       "category": "symbols",
       "homepage_url": "https://github.com/alerque/libertinus",
       "download_url": "https://mirrors.ctan.org/fonts/libertinus-fonts.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/libertinus-keyboard.zip",
-      "mirror_sha256": "d50095dab38cad460c9148d762d78f42a03f8a053573cd6ec285f3027485d7e5",
-      "mirror_size_bytes": 43324,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/libertinus-keyboard.zip",
+        "mirror_sha256": "d50095dab38cad460c9148d762d78f42a03f8a053573cd6ec285f3027485d7e5",
+        "mirror_size_bytes": 43324
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2397,9 +2501,11 @@
       "category": "math",
       "homepage_url": "https://github.com/alerque/libertinus",
       "download_url": "https://mirrors.ctan.org/fonts/libertinus-fonts.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/libertinus-math.zip",
-      "mirror_sha256": "6c3f21ed5e06475d7f21c6d72fcb47abee540bb664eb154796b616793b9ed034",
-      "mirror_size_bytes": 454922,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/libertinus-math.zip",
+        "mirror_sha256": "6c3f21ed5e06475d7f21c6d72fcb47abee540bb664eb154796b616793b9ed034",
+        "mirror_size_bytes": 454922
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2425,9 +2531,11 @@
       "category": "monospace",
       "homepage_url": "https://github.com/alerque/libertinus",
       "download_url": "https://mirrors.ctan.org/fonts/libertinus-fonts.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/libertinus-mono.zip",
-      "mirror_sha256": "2dfffa2746e5b97589d74f3cd91fbe2040ddc71eedf3f69348c8c15c3410e290",
-      "mirror_size_bytes": 47342,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/libertinus-mono.zip",
+        "mirror_sha256": "2dfffa2746e5b97589d74f3cd91fbe2040ddc71eedf3f69348c8c15c3410e290",
+        "mirror_size_bytes": 47342
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2453,9 +2561,11 @@
       "category": "sans-serif",
       "homepage_url": "https://github.com/alerque/libertinus",
       "download_url": "https://mirrors.ctan.org/fonts/libertinus-fonts.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/libertinus-sans.zip",
-      "mirror_sha256": "185f49a37dcc0949eb3d03bd794d2512edeabc9e69660be306198219ce59b123",
-      "mirror_size_bytes": 654219,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/libertinus-sans.zip",
+        "mirror_sha256": "185f49a37dcc0949eb3d03bd794d2512edeabc9e69660be306198219ce59b123",
+        "mirror_size_bytes": 654219
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2494,9 +2604,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/alerque/libertinus",
       "download_url": "https://mirrors.ctan.org/fonts/libertinus-fonts.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/libertinus-serif.zip",
-      "mirror_sha256": "1237d990b432fc74d1c2b0a7d6cc0f38d53c106bfddfed9c8101cbc66e55f129",
-      "mirror_size_bytes": 1422812,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/libertinus-serif.zip",
+        "mirror_sha256": "1237d990b432fc74d1c2b0a7d6cc0f38d53c106bfddfed9c8101cbc66e55f129",
+        "mirror_size_bytes": 1422812
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2554,9 +2666,11 @@
       "category": "display",
       "homepage_url": "https://github.com/alerque/libertinus",
       "download_url": "https://mirrors.ctan.org/fonts/libertinus-fonts.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/libertinus-serif-display.zip",
-      "mirror_sha256": "2b8a7a2f67e77e6005e45d9f6ca8262d5f608da5fc98b21ac7e023bce6de803e",
-      "mirror_size_bytes": 202422,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/libertinus-serif-display.zip",
+        "mirror_sha256": "2b8a7a2f67e77e6005e45d9f6ca8262d5f608da5fc98b21ac7e023bce6de803e",
+        "mirror_size_bytes": 202422
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2582,9 +2696,11 @@
       "category": "display",
       "homepage_url": "https://github.com/alerque/libertinus",
       "download_url": "https://mirrors.ctan.org/fonts/libertinus-fonts.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/libertinus-serif-initials.zip",
-      "mirror_sha256": "3a348a95e07ed5c9121a1ad8df21312ce1f42937cfccd81dfb62294fd552e355",
-      "mirror_size_bytes": 103719,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/libertinus-serif-initials.zip",
+        "mirror_sha256": "3a348a95e07ed5c9121a1ad8df21312ce1f42937cfccd81dfb62294fd552e355",
+        "mirror_size_bytes": 103719
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2610,9 +2726,11 @@
       "category": "display",
       "homepage_url": "https://github.com/graphicore/librebarcode",
       "download_url": "https://fonts.google.com/download?family=Libre+Barcode+128",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/libre-barcode-128.zip",
-      "mirror_sha256": "4b752bd22ec87ff8e45a8d1e7ef297bf8ed5cb52e1fda4086bd9e485c194f986",
-      "mirror_size_bytes": 26906,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/libre-barcode-128.zip",
+        "mirror_sha256": "4b752bd22ec87ff8e45a8d1e7ef297bf8ed5cb52e1fda4086bd9e485c194f986",
+        "mirror_size_bytes": 26906
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2638,9 +2756,11 @@
       "category": "display",
       "homepage_url": "https://github.com/graphicore/librebarcode",
       "download_url": "https://fonts.google.com/download?family=Libre+Barcode+128+Text",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/libre-barcode-128-text.zip",
-      "mirror_sha256": "affa976a51d1175359631a862699258772d0de87509932afcb47399ea65d0fd3",
-      "mirror_size_bytes": 52510,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/libre-barcode-128-text.zip",
+        "mirror_sha256": "affa976a51d1175359631a862699258772d0de87509932afcb47399ea65d0fd3",
+        "mirror_size_bytes": 52510
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2666,9 +2786,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/impallari/Libre-Baskerville",
       "download_url": "https://fonts.google.com/download?family=Libre+Baskerville",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/libre-baskerville.zip",
-      "mirror_sha256": "4dd6713f37317c3577c4278bd6d49dcf2575dec37e3aba575a75592493f3de31",
-      "mirror_size_bytes": 1285116,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/libre-baskerville.zip",
+        "mirror_sha256": "4dd6713f37317c3577c4278bd6d49dcf2575dec37e3aba575a75592493f3de31",
+        "mirror_size_bytes": 1285116
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2707,9 +2829,11 @@
       "category": "sans-serif",
       "homepage_url": "https://libertine-fonts.org/libre/",
       "download_url": "https://mirrors.ctan.org/fonts/libertine.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/linux-biolinum.zip",
-      "mirror_sha256": "1718437febcd72f65bd37e5c96d337b28a1194d55615a34441aab8712e82e4a4",
-      "mirror_size_bytes": 1205987,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/linux-biolinum.zip",
+        "mirror_sha256": "1718437febcd72f65bd37e5c96d337b28a1194d55615a34441aab8712e82e4a4",
+        "mirror_size_bytes": 1205987
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2754,9 +2878,11 @@
       "category": "symbols",
       "homepage_url": "https://libertine-fonts.org/libre/",
       "download_url": "https://mirrors.ctan.org/fonts/libertine.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/linux-biolinum-keyboard.zip",
-      "mirror_sha256": "e57ebc2ed0346c6b2abb165b5330c3e2d4a6847774304746a6c076540e9dfb02",
-      "mirror_size_bytes": 84223,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/linux-biolinum-keyboard.zip",
+        "mirror_sha256": "e57ebc2ed0346c6b2abb165b5330c3e2d4a6847774304746a6c076540e9dfb02",
+        "mirror_size_bytes": 84223
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2782,9 +2908,11 @@
       "category": "serif",
       "homepage_url": "https://libertine-fonts.org/libre/",
       "download_url": "https://mirrors.ctan.org/fonts/libertine.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/linux-libertine.zip",
-      "mirror_sha256": "fc8f7c7ce74491599ba66e927397f9893cb62cbcedda1cbebeb751a204a65a95",
-      "mirror_size_bytes": 1405621,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/linux-libertine.zip",
+        "mirror_sha256": "fc8f7c7ce74491599ba66e927397f9893cb62cbcedda1cbebeb751a204a65a95",
+        "mirror_size_bytes": 1405621
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2842,9 +2970,11 @@
       "category": "display",
       "homepage_url": "https://libertine-fonts.org/libre/",
       "download_url": "https://mirrors.ctan.org/fonts/libertine.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/linux-libertine-display.zip",
-      "mirror_sha256": "879cd8979a6dadc8ddbb0fd220bf8ba07ddb564a48c4cbe1b076ab66a7e3318d",
-      "mirror_size_bytes": 240061,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/linux-libertine-display.zip",
+        "mirror_sha256": "879cd8979a6dadc8ddbb0fd220bf8ba07ddb564a48c4cbe1b076ab66a7e3318d",
+        "mirror_size_bytes": 240061
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2870,9 +3000,11 @@
       "category": "display",
       "homepage_url": "https://libertine-fonts.org/libre/",
       "download_url": "https://mirrors.ctan.org/fonts/libertine.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/linux-libertine-initials.zip",
-      "mirror_sha256": "a2fd91193b914a2a2cdbc93a1740ea47ad84aba110db91e35c522b1333d25272",
-      "mirror_size_bytes": 204881,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/linux-libertine-initials.zip",
+        "mirror_sha256": "a2fd91193b914a2a2cdbc93a1740ea47ad84aba110db91e35c522b1333d25272",
+        "mirror_size_bytes": 204881
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2898,9 +3030,11 @@
       "category": "monospace",
       "homepage_url": "https://libertine-fonts.org/libre/",
       "download_url": "https://mirrors.ctan.org/fonts/libertine.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/linux-libertine-mono.zip",
-      "mirror_sha256": "7542b52138ab97a49bd445f4040b5c1ceb4c4b7ab8afadba2d2dfee4d0ba322e",
-      "mirror_size_bytes": 717504,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/linux-libertine-mono.zip",
+        "mirror_sha256": "7542b52138ab97a49bd445f4040b5c1ceb4c4b7ab8afadba2d2dfee4d0ba322e",
+        "mirror_size_bytes": 717504
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2944,9 +3078,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/cyrealtype/Lora-Cyrillic",
       "download_url": "https://github.com/cyrealtype/Lora-Cyrillic/releases/latest/download/Lora.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/lora.zip",
-      "mirror_sha256": "4b773b2430b7ee69d46460a252b855df9efb28a5fe921b0ebab595356b0a4e5c",
-      "mirror_size_bytes": 224177,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/lora.zip",
+        "mirror_sha256": "4b773b2430b7ee69d46460a252b855df9efb28a5fe921b0ebab595356b0a4e5c",
+        "mirror_size_bytes": 224177
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -2968,9 +3104,11 @@
       "category": "sans-serif",
       "homepage_url": "https://www.luciole-vision.com/",
       "download_url": "https://www.luciole-vision.com/fonts/Luciole.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/luciole.zip",
-      "mirror_sha256": "0f668e61e3e6b7ba052b2ffba5f7d925541506bcedfdfed5828dd1615dd1d66a",
-      "mirror_size_bytes": 239028,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/luciole.zip",
+        "mirror_sha256": "0f668e61e3e6b7ba052b2ffba5f7d925541506bcedfdfed5828dd1615dd1d66a",
+        "mirror_size_bytes": 239028
+      },
       "file_format": "zip",
       "license": {
         "spdx": "CC-BY-4.0",
@@ -3015,9 +3153,11 @@
       "category": "math",
       "homepage_url": "https://www.luciole-vision.com/",
       "download_url": "https://www.luciole-vision.com/fonts/Luciole-Math.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/luciole-math.zip",
-      "mirror_sha256": "26aad8fe0f0df91c521582f79a83746bf15ef8634a9e8718d4c2f92ce0ce7dab",
-      "mirror_size_bytes": 228208,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/luciole-math.zip",
+        "mirror_sha256": "26aad8fe0f0df91c521582f79a83746bf15ef8634a9e8718d4c2f92ce0ce7dab",
+        "mirror_size_bytes": 228208
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -3043,9 +3183,11 @@
       "category": "sans-serif",
       "homepage_url": "https://www.sharanda.com/manrope",
       "download_url": "https://fonts.google.com/download?family=Manrope",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/manrope.zip",
-      "mirror_sha256": "07fb344af9bdfa0871eb5f03b2153e4301c90e23214e3bf66dcd4e33171daa86",
-      "mirror_size_bytes": 853542,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/manrope.zip",
+        "mirror_sha256": "07fb344af9bdfa0871eb5f03b2153e4301c90e23214e3bf66dcd4e33171daa86",
+        "mirror_size_bytes": 853542
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -3067,9 +3209,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/SorkinType/Merriweather",
       "download_url": "https://fonts.google.com/download?family=Merriweather",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/merriweather.zip",
-      "mirror_sha256": "66d1b4b43d22354c346c4b8cdac6ba8eee6fd5fd34d774c282dcaa8632e88ba6",
-      "mirror_size_bytes": 158698376,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/merriweather.zip",
+        "mirror_sha256": "66d1b4b43d22354c346c4b8cdac6ba8eee6fd5fd34d774c282dcaa8632e88ba6",
+        "mirror_size_bytes": 158698376
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -3122,9 +3266,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/SorkinType/Merriweather",
       "download_url": "https://fonts.google.com/download?family=Merriweather",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/merriweather-7pt.zip",
-      "mirror_sha256": "6a2d2f67adcc0cc6619d4cefa9c0c8b7d22993ab815edb3bf6fa21311cc86e06",
-      "mirror_size_bytes": 158698376,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/merriweather-7pt.zip",
+        "mirror_sha256": "6a2d2f67adcc0cc6619d4cefa9c0c8b7d22993ab815edb3bf6fa21311cc86e06",
+        "mirror_size_bytes": 158698376
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -3163,9 +3309,11 @@
       "category": "sans-serif",
       "homepage_url": "https://github.com/SorkinType/Merriweather-Sans",
       "download_url": "https://fonts.google.com/download?family=Merriweather+Sans",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/merriweather-sans.zip",
-      "mirror_sha256": "18df6b1b19e518eb015c68655baddac337e897f36c7f7b1cb47358c6c12d95c5",
-      "mirror_size_bytes": 2073247,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/merriweather-sans.zip",
+        "mirror_sha256": "18df6b1b19e518eb015c68655baddac337e897f36c7f7b1cb47358c6c12d95c5",
+        "mirror_size_bytes": 2073247
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -3187,9 +3335,11 @@
       "category": "serif",
       "homepage_url": "https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html",
       "download_url": "https://github.com/typst-doc-cn/moe-tw-fonts/archive/refs/heads/main.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/moesongun.zip",
-      "mirror_sha256": "b99f64facb49948e35eb873a72fc24651a34a00d2fd8dfb164ea90143d390a9d",
-      "mirror_size_bytes": 14489757,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/moesongun.zip",
+        "mirror_sha256": "b99f64facb49948e35eb873a72fc24651a34a00d2fd8dfb164ea90143d390a9d",
+        "mirror_size_bytes": 14489757
+      },
       "file_format": "zip",
       "license": {
         "spdx": "CC-BY-ND-3.0-TW",
@@ -3215,9 +3365,11 @@
       "category": "serif",
       "homepage_url": "https://ctan.org/pkg/newcomputermodern",
       "download_url": "https://mirrors.ctan.org/fonts/newcomputermodern.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/new-computer-modern.zip",
-      "mirror_sha256": "8eefd7af6169798ef8a16f448b61f7aa2ac95abd20a16ae07b911d6c083d9641",
-      "mirror_size_bytes": 5013864,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/new-computer-modern.zip",
+        "mirror_sha256": "8eefd7af6169798ef8a16f448b61f7aa2ac95abd20a16ae07b911d6c083d9641",
+        "mirror_size_bytes": 5013864
+      },
       "file_format": "zip",
       "license": {
         "spdx": "LPPL-1.3c",
@@ -3262,9 +3414,11 @@
       "category": "math",
       "homepage_url": "https://ctan.org/pkg/newcomputermodern",
       "download_url": "https://mirrors.ctan.org/fonts/newcomputermodern.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/new-computer-modern-math.zip",
-      "mirror_sha256": "ffe432fc6d3218fa5f385bd21c202f4e1c3d5b1209cb6035d05cc8acff53d5e9",
-      "mirror_size_bytes": 2585935,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/new-computer-modern-math.zip",
+        "mirror_sha256": "ffe432fc6d3218fa5f385bd21c202f4e1c3d5b1209cb6035d05cc8acff53d5e9",
+        "mirror_size_bytes": 2585935
+      },
       "file_format": "zip",
       "license": {
         "spdx": "LPPL-1.3c",
@@ -3290,9 +3444,11 @@
       "category": "monospace",
       "homepage_url": "https://ctan.org/pkg/newcomputermodern",
       "download_url": "https://mirrors.ctan.org/fonts/newcomputermodern.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/new-computer-modern-mono.zip",
-      "mirror_sha256": "bbcfb8ffa4debe728b92ab796423dcb6ce16f791e0ca30735aa891652bd9cb6e",
-      "mirror_size_bytes": 2176040,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/new-computer-modern-mono.zip",
+        "mirror_sha256": "bbcfb8ffa4debe728b92ab796423dcb6ce16f791e0ca30735aa891652bd9cb6e",
+        "mirror_size_bytes": 2176040
+      },
       "file_format": "zip",
       "license": {
         "spdx": "LPPL-1.3c",
@@ -3337,9 +3493,11 @@
       "category": "sans-serif",
       "homepage_url": "https://ctan.org/pkg/newcomputermodern",
       "download_url": "https://mirrors.ctan.org/fonts/newcomputermodern.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/new-computer-modern-sans.zip",
-      "mirror_sha256": "10e6c4c9d0a1925ade6a12b298d0df1c8b8c65307063c79c508b099272e1a1d6",
-      "mirror_size_bytes": 3542938,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/new-computer-modern-sans.zip",
+        "mirror_sha256": "10e6c4c9d0a1925ade6a12b298d0df1c8b8c65307063c79c508b099272e1a1d6",
+        "mirror_size_bytes": 3542938
+      },
       "file_format": "zip",
       "license": {
         "spdx": "LPPL-1.3c",
@@ -3378,9 +3536,11 @@
       "category": "math",
       "homepage_url": "https://ctan.org/pkg/newcomputermodern",
       "download_url": "https://mirrors.ctan.org/fonts/newcomputermodern.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/new-computer-modern-sans-math.zip",
-      "mirror_sha256": "19ed029802fb16310e0d8958853bda8ab5687e90790560bacfcd63ab15025eaf",
-      "mirror_size_bytes": 813641,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/new-computer-modern-sans-math.zip",
+        "mirror_sha256": "19ed029802fb16310e0d8958853bda8ab5687e90790560bacfcd63ab15025eaf",
+        "mirror_size_bytes": 813641
+      },
       "file_format": "zip",
       "license": {
         "spdx": "LPPL-1.3c",
@@ -3406,9 +3566,11 @@
       "category": "display",
       "homepage_url": "https://ctan.org/pkg/newcomputermodern",
       "download_url": "https://mirrors.ctan.org/fonts/newcomputermodern.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/new-computer-modern-uncial.zip",
-      "mirror_sha256": "e01f68a698bfffe82ffa66252108b77fcb4d74341ad6adf591eb6db7b8983223",
-      "mirror_size_bytes": 119083,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/new-computer-modern-uncial.zip",
+        "mirror_sha256": "e01f68a698bfffe82ffa66252108b77fcb4d74341ad6adf591eb6db7b8983223",
+        "mirror_size_bytes": 119083
+      },
       "file_format": "zip",
       "license": {
         "spdx": "LPPL-1.3c",
@@ -3434,9 +3596,11 @@
       "category": "emoji",
       "homepage_url": "https://github.com/googlefonts/noto-emoji",
       "download_url": "https://fonts.google.com/download?family=Noto+Color+Emoji",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/noto-color-emoji.zip",
-      "mirror_sha256": "0f5b610a877c9ee5be80f13ec85cbc3e0d0acf72edb51f6443892447de62e6a0",
-      "mirror_size_bytes": 25342533,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/noto-color-emoji.zip",
+        "mirror_sha256": "0f5b610a877c9ee5be80f13ec85cbc3e0d0acf72edb51f6443892447de62e6a0",
+        "mirror_size_bytes": 25342533
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -3458,9 +3622,11 @@
       "category": "emoji",
       "homepage_url": "https://github.com/googlefonts/noto-emoji",
       "download_url": "https://fonts.google.com/download?family=Noto+Emoji",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/noto-emoji.zip",
-      "mirror_sha256": "1b031c27af927e576aad1788a1fb99b18688cd6157f1fc0d9936ab6e57c0b471",
-      "mirror_size_bytes": 6438329,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/noto-emoji.zip",
+        "mirror_sha256": "1b031c27af927e576aad1788a1fb99b18688cd6157f1fc0d9936ab6e57c0b471",
+        "mirror_size_bytes": 6438329
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -3482,9 +3648,11 @@
       "category": "sans-serif",
       "homepage_url": "https://github.com/notofonts/latin-greek-cyrillic",
       "download_url": "https://fonts.google.com/download?family=Noto+Sans",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/noto-sans.zip",
-      "mirror_sha256": "0b3566dfd2ac6102dd85bdeb16af5e24bafe98170fcab8d279826c420cf0857d",
-      "mirror_size_bytes": 50217438,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/noto-sans.zip",
+        "mirror_sha256": "0b3566dfd2ac6102dd85bdeb16af5e24bafe98170fcab8d279826c420cf0857d",
+        "mirror_size_bytes": 50217438
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -3510,9 +3678,11 @@
       "category": "sans-serif",
       "homepage_url": "https://github.com/notofonts/latin-greek-cyrillic",
       "download_url": "https://fonts.google.com/download?family=Noto+Sans+Display",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/noto-sans-display.zip",
-      "mirror_sha256": "7333cbe8664f320719d81e95b7ac0aab58e657fd2d6958e40d93470746509043",
-      "mirror_size_bytes": 30002284,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/noto-sans-display.zip",
+        "mirror_sha256": "7333cbe8664f320719d81e95b7ac0aab58e657fd2d6958e40d93470746509043",
+        "mirror_size_bytes": 30002284
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -3538,9 +3708,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/notofonts/latin-greek-cyrillic",
       "download_url": "https://fonts.google.com/download?family=Noto+Serif",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/noto-serif.zip",
-      "mirror_sha256": "73e618538f7768bcb6855d9cb86d18ec9ebf998119bd238f58062d0bb6d481eb",
-      "mirror_size_bytes": 41841777,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/noto-serif.zip",
+        "mirror_sha256": "73e618538f7768bcb6855d9cb86d18ec9ebf998119bd238f58062d0bb6d481eb",
+        "mirror_size_bytes": 41841777
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -3566,9 +3738,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/notofonts/latin-greek-cyrillic",
       "download_url": "https://fonts.google.com/download?family=Noto+Serif+Display",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/noto-serif-display.zip",
-      "mirror_sha256": "dc80730c33fb47f0eb8918ffde5f99f260a7d67da503631748624b83c63bcf81",
-      "mirror_size_bytes": 35443199,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/noto-serif-display.zip",
+        "mirror_sha256": "dc80730c33fb47f0eb8918ffde5f99f260a7d67da503631748624b83c63bcf81",
+        "mirror_size_bytes": 35443199
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -3594,9 +3768,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/akryukov/oldstand",
       "download_url": "https://fonts.google.com/download?family=Old+Standard+TT",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/old-standard.zip",
-      "mirror_sha256": "3601e269d5f4088acdd6158c256b10a5b1812d6205cb6ba694a6bcea6b4be3d5",
-      "mirror_size_bytes": 778893,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/old-standard.zip",
+        "mirror_sha256": "3601e269d5f4088acdd6158c256b10a5b1812d6205cb6ba694a6bcea6b4be3d5",
+        "mirror_size_bytes": 778893
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -3635,9 +3811,11 @@
       "category": "math",
       "homepage_url": "https://ctan.org/pkg/oldstandard",
       "download_url": "https://fonts.google.com/download?family=Old+Standard+TT",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/old-standard-math.zip",
-      "mirror_sha256": "cd0d3a4ffd82dc4e9bc195aa214aed4730dae94b39815f75f66408a6661ab91b",
-      "mirror_size_bytes": 778893,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/old-standard-math.zip",
+        "mirror_sha256": "cd0d3a4ffd82dc4e9bc195aa214aed4730dae94b39815f75f66408a6661ab91b",
+        "mirror_size_bytes": 778893
+      },
       "file_format": "zip",
       "license": {
         "spdx": "LicenseRef-GUST-Font-License-1.0",
@@ -3663,9 +3841,11 @@
       "category": "sans-serif",
       "homepage_url": "https://github.com/marcologous/Open-Sauce-Fonts",
       "download_url": "https://github.com/marcologous/Open-Sauce-Fonts/archive/refs/heads/master.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/open-sauce-one.zip",
-      "mirror_sha256": "c1f68c93abeed81ed2ce08765006a263a0551e7c3dc545a2038ce30b97f2b54f",
-      "mirror_size_bytes": 304997,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/open-sauce-one.zip",
+        "mirror_sha256": "c1f68c93abeed81ed2ce08765006a263a0551e7c3dc545a2038ce30b97f2b54f",
+        "mirror_size_bytes": 304997
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -3708,9 +3888,11 @@
       "category": "sans-serif",
       "homepage_url": "https://opendyslexic.org/",
       "download_url": "https://github.com/antijingoist/opendyslexic/archive/refs/heads/master.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/opendyslexic.zip",
-      "mirror_sha256": "955857ea474dabc4ce19f47389590e5b839676bca94a4b210aa4fafcddab74d2",
-      "mirror_size_bytes": 518153,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/opendyslexic.zip",
+        "mirror_sha256": "955857ea474dabc4ce19f47389590e5b839676bca94a4b210aa4fafcddab74d2",
+        "mirror_size_bytes": 518153
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -3755,9 +3937,11 @@
       "category": "monospace",
       "homepage_url": "https://opendyslexic.org/",
       "download_url": "https://github.com/antijingoist/opendyslexic/archive/refs/heads/master.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/opendyslexicmono.zip",
-      "mirror_sha256": "f649c8e0c5e20b72a79eb911d1938431d5123f080469d704927e3580a4225b4c",
-      "mirror_size_bytes": 518153,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/opendyslexicmono.zip",
+        "mirror_sha256": "f649c8e0c5e20b72a79eb911d1938431d5123f080469d704927e3580a4225b4c",
+        "mirror_size_bytes": 518153
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -3783,9 +3967,11 @@
       "category": "sans-serif",
       "homepage_url": "https://github.com/juliusross1/Pennstander",
       "download_url": "https://github.com/juliusross1/Pennstander/archive/refs/heads/main.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/pennstander.zip",
-      "mirror_sha256": "a2d0021d4332e075878202495d57330cdc461913097ae64d24f645ae1761f7db",
-      "mirror_size_bytes": 310076,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/pennstander.zip",
+        "mirror_sha256": "a2d0021d4332e075878202495d57330cdc461913097ae64d24f645ae1761f7db",
+        "mirror_size_bytes": 310076
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -3818,9 +4004,11 @@
       "category": "math",
       "homepage_url": "https://github.com/juliusross1/Pennstander",
       "download_url": "https://github.com/juliusross1/Pennstander/archive/refs/heads/main.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/pennstander-math.zip",
-      "mirror_sha256": "67b1479b1e09d7e5eb16ed74e722f153fc36d4211aa0bdf9e9dbd145fc3192c5",
-      "mirror_size_bytes": 1844556,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/pennstander-math.zip",
+        "mirror_sha256": "67b1479b1e09d7e5eb16ed74e722f153fc36d4211aa0bdf9e9dbd145fc3192c5",
+        "mirror_size_bytes": 1844556
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -3846,9 +4034,11 @@
       "category": "handwriting",
       "homepage_url": "https://github.com/google/fonts/tree/main/apache/permanentmarker",
       "download_url": "https://fonts.google.com/download?family=Permanent+Marker",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/permanent-marker.zip",
-      "mirror_sha256": "3bea8ec0581d8d71f0c5ff94825eb6a45d7ccd34977358c00125f1786c94603c",
-      "mirror_size_bytes": 85454,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/permanent-marker.zip",
+        "mirror_sha256": "3bea8ec0581d8d71f0c5ff94825eb6a45d7ccd34977358c00125f1786c94603c",
+        "mirror_size_bytes": 85454
+      },
       "file_format": "zip",
       "license": {
         "spdx": "Apache-2.0",
@@ -3874,9 +4064,11 @@
       "category": "monospace",
       "homepage_url": "https://paratype.com/fonts/pt/pt-mono",
       "download_url": "https://fonts.google.com/download?family=PT+Mono",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/pt-mono.zip",
-      "mirror_sha256": "df03772497bda85aee3083f9f1377640329c2d7f49dd9ba46ddd9b8a4abbeb3a",
-      "mirror_size_bytes": 174271,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/pt-mono.zip",
+        "mirror_sha256": "df03772497bda85aee3083f9f1377640329c2d7f49dd9ba46ddd9b8a4abbeb3a",
+        "mirror_size_bytes": 174271
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -3909,9 +4101,11 @@
       "category": "sans-serif",
       "homepage_url": "https://paratype.com/fonts/pt/pt-sans",
       "download_url": "https://fonts.google.com/download?family=PT+Sans",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/pt-sans.zip",
-      "mirror_sha256": "a38b2a6fdb533e8148dbe8e5e257a5f910ee8693a7dfc676b5d0fcc24777ee5d",
-      "mirror_size_bytes": 1053198,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/pt-sans.zip",
+        "mirror_sha256": "a38b2a6fdb533e8148dbe8e5e257a5f910ee8693a7dfc676b5d0fcc24777ee5d",
+        "mirror_size_bytes": 1053198
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -3956,9 +4150,11 @@
       "category": "sans-serif",
       "homepage_url": "https://paratype.com/fonts/pt/pt-sans",
       "download_url": "https://fonts.google.com/download?family=PT+Sans+Caption",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/pt-sans-caption.zip",
-      "mirror_sha256": "b0fab0b54986309d8ff77ff4145b8ef2505b3c463dc3146af7517dd9f639e7b6",
-      "mirror_size_bytes": 455982,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/pt-sans-caption.zip",
+        "mirror_sha256": "b0fab0b54986309d8ff77ff4145b8ef2505b3c463dc3146af7517dd9f639e7b6",
+        "mirror_size_bytes": 455982
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -3991,9 +4187,11 @@
       "category": "serif",
       "homepage_url": "https://paratype.com/fonts/pt/pt-serif",
       "download_url": "https://fonts.google.com/download?family=PT+Serif",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/pt-serif.zip",
-      "mirror_sha256": "8cbc2382a2b712e1dfb5ec58ada88152bb9f8699005e79e8149c0f640eb56034",
-      "mirror_size_bytes": 842743,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/pt-serif.zip",
+        "mirror_sha256": "8cbc2382a2b712e1dfb5ec58ada88152bb9f8699005e79e8149c0f640eb56034",
+        "mirror_size_bytes": 842743
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -4038,9 +4236,11 @@
       "category": "sans-serif",
       "homepage_url": "https://public-sans.digital.gov/",
       "download_url": "https://fonts.google.com/download?family=Public+Sans",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/public-sans.zip",
-      "mirror_sha256": "6f17f82e1e71efab5d0bd03ebce505feedad93cf56bcdc1773cc6a09f94c8af1",
-      "mirror_size_bytes": 1341389,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/public-sans.zip",
+        "mirror_sha256": "6f17f82e1e71efab5d0bd03ebce505feedad93cf56bcdc1773cc6a09f94c8af1",
+        "mirror_size_bytes": 1341389
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -4066,9 +4266,11 @@
       "category": "serif",
       "homepage_url": "https://pampatype.com/reforma",
       "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/latest/download/reforma-1918.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/reforma-1918.zip",
-      "mirror_sha256": "8f39e92c9be23e0946ea9cc1677e41954cf041da212ffc7e2a20cfe5862b99e7",
-      "mirror_size_bytes": 225935,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/reforma-1918.zip",
+        "mirror_sha256": "8f39e92c9be23e0946ea9cc1677e41954cf041da212ffc7e2a20cfe5862b99e7",
+        "mirror_size_bytes": 225935
+      },
       "file_format": "zip",
       "license": {
         "spdx": "CC-BY-ND-4.0",
@@ -4113,9 +4315,11 @@
       "category": "serif",
       "homepage_url": "https://pampatype.com/reforma",
       "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/latest/download/reforma-1969.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/reforma-1969.zip",
-      "mirror_sha256": "132b5ca629ae0860d26b253dbdb98a2fdca881a331b73695a0f38a440377707d",
-      "mirror_size_bytes": 234510,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/reforma-1969.zip",
+        "mirror_sha256": "132b5ca629ae0860d26b253dbdb98a2fdca881a331b73695a0f38a440377707d",
+        "mirror_size_bytes": 234510
+      },
       "file_format": "zip",
       "license": {
         "spdx": "CC-BY-ND-4.0",
@@ -4160,9 +4364,11 @@
       "category": "sans-serif",
       "homepage_url": "https://pampatype.com/reforma",
       "download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/latest/download/reforma-2018.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/reforma-2018.zip",
-      "mirror_sha256": "c71d22766c0d68ae49347ba3fb70520088ad8a623932ff678db147243ae6b556",
-      "mirror_size_bytes": 220649,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/reforma-2018.zip",
+        "mirror_sha256": "c71d22766c0d68ae49347ba3fb70520088ad8a623932ff678db147243ae6b556",
+        "mirror_size_bytes": 220649
+      },
       "file_format": "zip",
       "license": {
         "spdx": "CC-BY-ND-4.0",
@@ -4207,9 +4413,11 @@
       "category": "sans-serif",
       "homepage_url": "https://github.com/googlefonts/roboto-3-classic",
       "download_url": "https://fonts.google.com/download?family=Roboto",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/roboto.zip",
-      "mirror_sha256": "d71a790ec722733763d9d664dea783eb5edf229dec29869f33d43f3d7e7abfdd",
-      "mirror_size_bytes": 604500,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/roboto.zip",
+        "mirror_sha256": "d71a790ec722733763d9d664dea783eb5edf229dec29869f33d43f3d7e7abfdd",
+        "mirror_size_bytes": 604500
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -4235,9 +4443,11 @@
       "category": "monospace",
       "homepage_url": "https://github.com/googlefonts/RobotoMono",
       "download_url": "https://fonts.google.com/download?family=Roboto+Mono",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/roboto-mono.zip",
-      "mirror_sha256": "d1d223dae42b43f94712ea4fba229bdc557ea90ac105a91a47371298d91d2c1e",
-      "mirror_size_bytes": 1664002,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/roboto-mono.zip",
+        "mirror_sha256": "d1d223dae42b43f94712ea4fba229bdc557ea90ac105a91a47371298d91d2c1e",
+        "mirror_size_bytes": 1664002
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -4259,9 +4469,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/googlefonts/roboto-serif",
       "download_url": "https://fonts.google.com/download?family=Roboto+Serif",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/roboto-serif.zip",
-      "mirror_sha256": "ca140d78ca5988a3c14a4ed62566a13e10c1a57a22e104011a6f44ba33c25725",
-      "mirror_size_bytes": 30515543,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/roboto-serif.zip",
+        "mirror_sha256": "ca140d78ca5988a3c14a4ed62566a13e10c1a57a22e104011a6f44ba33c25725",
+        "mirror_size_bytes": 30515543
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -4291,9 +4503,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/googlefonts/roboto-serif",
       "download_url": "https://fonts.google.com/download?family=Roboto+Serif",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/roboto-serif-20pt.zip",
-      "mirror_sha256": "ead748c3091254926562ee28e963c58a43dd0cb0efab197ca427ccb855c02dd7",
-      "mirror_size_bytes": 30515543,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/roboto-serif-20pt.zip",
+        "mirror_sha256": "ead748c3091254926562ee28e963c58a43dd0cb0efab197ca427ccb855c02dd7",
+        "mirror_size_bytes": 30515543
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -4332,9 +4546,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/googlefonts/robotoslab",
       "download_url": "https://fonts.google.com/download?family=Roboto+Slab",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/roboto-slab.zip",
-      "mirror_sha256": "9a4a864ea953e074bfbfdf3dd429b1c0ef43bae5968420a2d52c620db99dc29e",
-      "mirror_size_bytes": 1403005,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/roboto-slab.zip",
+        "mirror_sha256": "9a4a864ea953e074bfbfdf3dd429b1c0ef43bae5968420a2d52c620db99dc29e",
+        "mirror_size_bytes": 1403005
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -4356,9 +4572,11 @@
       "category": "monospace",
       "homepage_url": "https://github.com/adobe-fonts/source-code-pro",
       "download_url": "https://fonts.google.com/download?family=Source+Code+Pro",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/source-code-pro.zip",
-      "mirror_sha256": "df9713350107012479569d4c91d992e7a3e7505f89c3bf46411a5c28d47b894e",
-      "mirror_size_bytes": 2354378,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/source-code-pro.zip",
+        "mirror_sha256": "df9713350107012479569d4c91d992e7a3e7505f89c3bf46411a5c28d47b894e",
+        "mirror_size_bytes": 2354378
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -4380,9 +4598,11 @@
       "category": "sans-serif",
       "homepage_url": "https://github.com/adobe-fonts/source-sans",
       "download_url": "https://fonts.google.com/download?family=Source+Sans+3",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/source-sans-pro.zip",
-      "mirror_sha256": "7bd2a317e1a9ef496542db957ba1090f0b38cb6c5c0d6ee6196e27a007c7e4f8",
-      "mirror_size_bytes": 5974309,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/source-sans-pro.zip",
+        "mirror_sha256": "7bd2a317e1a9ef496542db957ba1090f0b38cb6c5c0d6ee6196e27a007c7e4f8",
+        "mirror_size_bytes": 5974309
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -4404,9 +4624,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/adobe-fonts/source-serif",
       "download_url": "https://fonts.google.com/download?family=Source+Serif+4",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/source-serif-pro.zip",
-      "mirror_sha256": "697ce630514df43dcc84f1ca8bd12168942b2ed6d9487423af82cdc68e4eefac",
-      "mirror_size_bytes": 19301726,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/source-serif-pro.zip",
+        "mirror_sha256": "697ce630514df43dcc84f1ca8bd12168942b2ed6d9487423af82cdc68e4eefac",
+        "mirror_size_bytes": 19301726
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -4428,9 +4650,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/productiontype/Spectral",
       "download_url": "https://fonts.google.com/download?family=Spectral",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/spectral.zip",
-      "mirror_sha256": "764146f96ff701589ba6ba12a1dff787afe294c21b32e6b7b20e1022926fea7a",
-      "mirror_size_bytes": 3738692,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/spectral.zip",
+        "mirror_sha256": "764146f96ff701589ba6ba12a1dff787afe294c21b32e6b7b20e1022926fea7a",
+        "mirror_size_bytes": 3738692
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -4480,9 +4704,11 @@
       "category": "math",
       "homepage_url": "https://github.com/stipub/stixfonts",
       "download_url": "https://fonts.google.com/download?family=STIX+Two+Math",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/stix-two-math.zip",
-      "mirror_sha256": "0b03d7408eeccaaf971d2cb9669ff471dbde7f85cafe47132972e97ed6e1aeae",
-      "mirror_size_bytes": 1476848,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/stix-two-math.zip",
+        "mirror_sha256": "0b03d7408eeccaaf971d2cb9669ff471dbde7f85cafe47132972e97ed6e1aeae",
+        "mirror_size_bytes": 1476848
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -4508,9 +4734,11 @@
       "category": "serif",
       "homepage_url": "https://github.com/stipub/stixfonts",
       "download_url": "https://fonts.google.com/download?family=STIX+Two+Text",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/stix-two-text.zip",
-      "mirror_sha256": "a8326ea23c3fdb51f0f7ff5081f151ef823e0cc0241cd3dc5d889d08f1eb4486",
-      "mirror_size_bytes": 3351382,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/stix-two-text.zip",
+        "mirror_sha256": "a8326ea23c3fdb51f0f7ff5081f151ef823e0cc0241cd3dc5d889d08f1eb4486",
+        "mirror_size_bytes": 3351382
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -4532,9 +4760,11 @@
       "category": "sans-serif",
       "homepage_url": "https://gitlab.com/bonjour-monde/fonderie/syne-typeface",
       "download_url": "https://fonts.google.com/download?family=Syne",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/syne.zip",
-      "mirror_sha256": "4ab222f7c5f9e7270d5ae92e17180b426443f673c42ae2e0ed26550dc9fdd1e3",
-      "mirror_size_bytes": 498177,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/syne.zip",
+        "mirror_sha256": "4ab222f7c5f9e7270d5ae92e17180b426443f673c42ae2e0ed26550dc9fdd1e3",
+        "mirror_size_bytes": 498177
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -4556,9 +4786,11 @@
       "category": "monospace",
       "homepage_url": "https://gitlab.com/bonjour-monde/fonderie/syne-typeface",
       "download_url": "https://fonts.google.com/download?family=Syne+Mono",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/syne-mono.zip",
-      "mirror_sha256": "b7773a16165c8cfb5a7f6de21a960d294bd09071a3bdaf11b27024dc3c47d705",
-      "mirror_size_bytes": 74811,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/syne-mono.zip",
+        "mirror_sha256": "b7773a16165c8cfb5a7f6de21a960d294bd09071a3bdaf11b27024dc3c47d705",
+        "mirror_size_bytes": 74811
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -4584,9 +4816,11 @@
       "category": "display",
       "homepage_url": "https://gitlab.com/bonjour-monde/fonderie/syne-typeface",
       "download_url": "https://fonts.google.com/download?family=Syne+Tactile",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/syne-tactile.zip",
-      "mirror_sha256": "7a85aa80b879fa50f3613350ba72ab5d55034ef49b188b5a70d0db42778b22ea",
-      "mirror_size_bytes": 133377,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/syne-tactile.zip",
+        "mirror_sha256": "7a85aa80b879fa50f3613350ba72ab5d55034ef49b188b5a70d0db42778b22ea",
+        "mirror_size_bytes": 133377
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -4612,9 +4846,11 @@
       "category": "sans-serif",
       "homepage_url": "https://ctan.org/pkg/tex-gyre",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-adventor.zip",
-      "mirror_sha256": "3ac68d4c6b491b15037c3a3d6dbf3c74b97e5790f6934fa3a1eea4718ba154e1",
-      "mirror_size_bytes": 362592,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-adventor.zip",
+        "mirror_sha256": "3ac68d4c6b491b15037c3a3d6dbf3c74b97e5790f6934fa3a1eea4718ba154e1",
+        "mirror_size_bytes": 362592
+      },
       "file_format": "zip",
       "license": {
         "spdx": "LicenseRef-GUST-Font-License-1.0",
@@ -4659,9 +4895,11 @@
       "category": "serif",
       "homepage_url": "https://ctan.org/pkg/tex-gyre",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-bonum.zip",
-      "mirror_sha256": "d1e850ada43ef38ca692adb1f8919537fb2afb6aeb88726c4ad7d7dc990c9a40",
-      "mirror_size_bytes": 299596,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-bonum.zip",
+        "mirror_sha256": "d1e850ada43ef38ca692adb1f8919537fb2afb6aeb88726c4ad7d7dc990c9a40",
+        "mirror_size_bytes": 299596
+      },
       "file_format": "zip",
       "license": {
         "spdx": "LicenseRef-GUST-Font-License-1.0",
@@ -4706,9 +4944,11 @@
       "category": "math",
       "homepage_url": "https://ctan.org/pkg/tex-gyre-math",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre-math.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-bonum-math.zip",
-      "mirror_sha256": "861725735f85efefe7b6162f3e71ced2e14d8fed066cdc99b78ce202c584d8a2",
-      "mirror_size_bytes": 342899,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-bonum-math.zip",
+        "mirror_sha256": "861725735f85efefe7b6162f3e71ced2e14d8fed066cdc99b78ce202c584d8a2",
+        "mirror_size_bytes": 342899
+      },
       "file_format": "zip",
       "license": {
         "spdx": "LicenseRef-GUST-Font-License-1.0",
@@ -4734,9 +4974,11 @@
       "category": "cursive",
       "homepage_url": "https://ctan.org/pkg/tex-gyre",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-chorus.zip",
-      "mirror_sha256": "8657433356b6a19450387e705895157816f590362dd77accc5b4aa359cfc25b1",
-      "mirror_size_bytes": 56214,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-chorus.zip",
+        "mirror_sha256": "8657433356b6a19450387e705895157816f590362dd77accc5b4aa359cfc25b1",
+        "mirror_size_bytes": 56214
+      },
       "file_format": "zip",
       "license": {
         "spdx": "LicenseRef-GUST-Font-License-1.0",
@@ -4762,9 +5004,11 @@
       "category": "monospace",
       "homepage_url": "https://ctan.org/pkg/tex-gyre",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-cursor.zip",
-      "mirror_sha256": "4a37b8c302e0b9139977f2c6513a6e7ca9968326ab486f15f549c8c975c21268",
-      "mirror_size_bytes": 232641,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-cursor.zip",
+        "mirror_sha256": "4a37b8c302e0b9139977f2c6513a6e7ca9968326ab486f15f549c8c975c21268",
+        "mirror_size_bytes": 232641
+      },
       "file_format": "zip",
       "license": {
         "spdx": "LicenseRef-GUST-Font-License-1.0",
@@ -4809,9 +5053,11 @@
       "category": "sans-serif",
       "homepage_url": "https://ctan.org/pkg/tex-gyre",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-heros.zip",
-      "mirror_sha256": "ea8ae7c38d4e7e53345af84ed892a2913f67b02848388d987015b54790060ea5",
-      "mirror_size_bytes": 513414,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-heros.zip",
+        "mirror_sha256": "ea8ae7c38d4e7e53345af84ed892a2913f67b02848388d987015b54790060ea5",
+        "mirror_size_bytes": 513414
+      },
       "file_format": "zip",
       "license": {
         "spdx": "LicenseRef-GUST-Font-License-1.0",
@@ -4856,9 +5102,11 @@
       "category": "serif",
       "homepage_url": "https://ctan.org/pkg/tex-gyre",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-pagella.zip",
-      "mirror_sha256": "b7adee8e0bc53192696ec8e606584b2b7e365643b26ed525d6e5b63640d49c0b",
-      "mirror_size_bytes": 472201,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-pagella.zip",
+        "mirror_sha256": "b7adee8e0bc53192696ec8e606584b2b7e365643b26ed525d6e5b63640d49c0b",
+        "mirror_size_bytes": 472201
+      },
       "file_format": "zip",
       "license": {
         "spdx": "LicenseRef-GUST-Font-License-1.0",
@@ -4903,9 +5151,11 @@
       "category": "math",
       "homepage_url": "https://ctan.org/pkg/tex-gyre-math",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre-math.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-pagella-math.zip",
-      "mirror_sha256": "bc8b4788f432eb11cc5d2336b3ef7d3ee2d9e7953d5c50f3d99eeb5fc68e6bec",
-      "mirror_size_bytes": 376834,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-pagella-math.zip",
+        "mirror_sha256": "bc8b4788f432eb11cc5d2336b3ef7d3ee2d9e7953d5c50f3d99eeb5fc68e6bec",
+        "mirror_size_bytes": 376834
+      },
       "file_format": "zip",
       "license": {
         "spdx": "LicenseRef-GUST-Font-License-1.0",
@@ -4931,9 +5181,11 @@
       "category": "serif",
       "homepage_url": "https://ctan.org/pkg/tex-gyre",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-schola.zip",
-      "mirror_sha256": "c9c9f4544be27319464e115c0341a5b3920f32e45b494a17e1afc4f19ccdee5f",
-      "mirror_size_bytes": 300388,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-schola.zip",
+        "mirror_sha256": "c9c9f4544be27319464e115c0341a5b3920f32e45b494a17e1afc4f19ccdee5f",
+        "mirror_size_bytes": 300388
+      },
       "file_format": "zip",
       "license": {
         "spdx": "LicenseRef-GUST-Font-License-1.0",
@@ -4978,9 +5230,11 @@
       "category": "math",
       "homepage_url": "https://ctan.org/pkg/tex-gyre-math",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre-math.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-schola-math.zip",
-      "mirror_sha256": "ca5235dd2c8317b2559dbdc1169dc6e6f7870610e27f5452952ebdf48bfb76d5",
-      "mirror_size_bytes": 396677,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-schola-math.zip",
+        "mirror_sha256": "ca5235dd2c8317b2559dbdc1169dc6e6f7870610e27f5452952ebdf48bfb76d5",
+        "mirror_size_bytes": 396677
+      },
       "file_format": "zip",
       "license": {
         "spdx": "LicenseRef-GUST-Font-License-1.0",
@@ -5006,9 +5260,11 @@
       "category": "serif",
       "homepage_url": "https://ctan.org/pkg/tex-gyre",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-termes.zip",
-      "mirror_sha256": "bc1e0065358152e4850373203cdeef3677cf718cd3a31526b5ad52a6d5ec563a",
-      "mirror_size_bytes": 303693,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-termes.zip",
+        "mirror_sha256": "bc1e0065358152e4850373203cdeef3677cf718cd3a31526b5ad52a6d5ec563a",
+        "mirror_size_bytes": 303693
+      },
       "file_format": "zip",
       "license": {
         "spdx": "LicenseRef-GUST-Font-License-1.0",
@@ -5053,9 +5309,11 @@
       "category": "math",
       "homepage_url": "https://ctan.org/pkg/tex-gyre-math",
       "download_url": "https://mirrors.ctan.org/fonts/tex-gyre-math.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-termes-math.zip",
-      "mirror_sha256": "ce93bf6813bec1d594c666fa77ba057644febb7ab587f89f13549ec2fa4e80a5",
-      "mirror_size_bytes": 348954,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tex-gyre-termes-math.zip",
+        "mirror_sha256": "ce93bf6813bec1d594c666fa77ba057644febb7ab587f89f13549ec2fa4e80a5",
+        "mirror_size_bytes": 348954
+      },
       "file_format": "zip",
       "license": {
         "spdx": "LicenseRef-GUST-Font-License-1.0",
@@ -5081,9 +5339,11 @@
       "category": "serif",
       "homepage_url": "https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html",
       "download_url": "https://github.com/typst-doc-cn/moe-tw-fonts/archive/refs/heads/main.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tw-moe-std-kai.zip",
-      "mirror_sha256": "fda220415b4f4f6ce29dfa36e0ddae94bd1f5ab6f2eb7b6c75227558be42c28e",
-      "mirror_size_bytes": 10332012,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/tw-moe-std-kai.zip",
+        "mirror_sha256": "fda220415b4f4f6ce29dfa36e0ddae94bd1f5ab6f2eb7b6c75227558be42c28e",
+        "mirror_size_bytes": 10332012
+      },
       "file_format": "zip",
       "license": {
         "spdx": "CC-BY-ND-3.0-TW",
@@ -5109,9 +5369,11 @@
       "category": "emoji",
       "homepage_url": "https://github.com/13rac1/twemoji-color-font",
       "download_url": "https://github.com/13rac1/twemoji-color-font/releases/download/v15.1.0/TwitterColorEmoji-SVGinOT-15.1.0.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/twitter-color-emoji.zip",
-      "mirror_sha256": "d32829528e031570371b76ca81dee60ab8a196e3c21b5f354d4d0731a0405e47",
-      "mirror_size_bytes": 7085739,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/twitter-color-emoji.zip",
+        "mirror_sha256": "d32829528e031570371b76ca81dee60ab8a196e3c21b5f354d4d0731a0405e47",
+        "mirror_size_bytes": 7085739
+      },
       "file_format": "zip",
       "license": {
         "spdx": "MIT",
@@ -5137,9 +5399,11 @@
       "category": "display",
       "homepage_url": "https://velvetyne.fr/fonts/vg5000/",
       "download_url": "https://gitlab.com/velvetyne/vg5000/-/archive/master/vg5000-master.zip",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/vg5000.zip",
-      "mirror_sha256": "1a5c46dba56274020b400e6082bde0cec1c19c127bdf3bfa09eb274a6f4ccc6a",
-      "mirror_size_bytes": 36304,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/vg5000.zip",
+        "mirror_sha256": "1a5c46dba56274020b400e6082bde0cec1c19c127bdf3bfa09eb274a6f4ccc6a",
+        "mirror_size_bytes": 36304
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
@@ -5165,9 +5429,11 @@
       "category": "serif",
       "homepage_url": "http://vollkorn-typeface.com/",
       "download_url": "https://fonts.google.com/download?family=Vollkorn",
-      "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/vollkorn.zip",
-      "mirror_sha256": "f3fdf287f0e8dda61c153ad1e642688fa0a37cb7dcd6dfb660103fb2acf16269",
-      "mirror_size_bytes": 4677084,
+      "mirror": {
+        "mirror_download_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/vollkorn.zip",
+        "mirror_sha256": "f3fdf287f0e8dda61c153ad1e642688fa0a37cb7dcd6dfb660103fb2acf16269",
+        "mirror_size_bytes": 4677084
+      },
       "file_format": "zip",
       "license": {
         "spdx": "OFL-1.1",
