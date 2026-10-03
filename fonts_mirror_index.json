@@ -390,7 +390,7 @@
     {
       "id": "liberation-mono",
       "asset_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/liberation-mono.zip",
-      "file_format": "tar.gz",
+      "file_format": "zip",
       "asset_sha256": "95d3bbba64c00e0cf605f04278afa49c12ba761be479881ddc2ce8eab16f35d9",
       "asset_size_bytes": 687138,
       "asset_last_updated": "2026-10-01T22:58:38Z"
@@ -398,7 +398,7 @@
     {
       "id": "liberation-sans",
       "asset_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/liberation-sans.zip",
-      "file_format": "tar.gz",
+      "file_format": "zip",
       "asset_sha256": "389567a1b4bacaa1154ebedc28f001df092df4610b8820e0d4f653c4e06e705d",
       "asset_size_bytes": 857101,
       "asset_last_updated": "2026-10-01T22:58:38Z"
@@ -406,7 +406,7 @@
     {
       "id": "liberation-serif",
       "asset_url": "https://github.com/Mapaor/typst-fonts-mirror/releases/download/v0.1.0/liberation-serif.zip",
-      "file_format": "tar.gz",
+      "file_format": "zip",
       "asset_sha256": "de4955ff163f8d01880eeddf07a91ecfc2825495c87182bbd19ada4379ccd7b2",
       "asset_size_bytes": 837350,
       "asset_last_updated": "2026-10-01T22:58:39Z"

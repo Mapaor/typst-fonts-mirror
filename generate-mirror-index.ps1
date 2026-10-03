@@ -33,6 +33,17 @@ foreach ($asset in @($release.assets)) {
     $assetsByName[$asset.name] = $asset
 }
 
+function Get-AssetFileFormat([string]$AssetName) {
+    $lowerName = $AssetName.ToLowerInvariant()
+    foreach ($suffix in @('.tar.gz', '.tgz', '.zip')) {
+        if ($lowerName.EndsWith($suffix)) {
+            return $suffix.TrimStart('.')
+        }
+    }
+
+    throw "Asset '$AssetName' has an unsupported archive format."
+}
+
 $mirrorFonts = foreach ($font in @($index.fonts)) {
     if ([string]::IsNullOrWhiteSpace($font.mirror_download_url)) {
         throw "Font '$($font.id)' is missing mirror_download_url."
@@ -55,7 +66,7 @@ $mirrorFonts = foreach ($font in @($index.fonts)) {
     [ordered]@{
         id = $font.id
         asset_url = $asset.browser_download_url
-        file_format = $font.file_format
+        file_format = Get-AssetFileFormat $asset.name
         asset_sha256 = $digest.Substring(7).ToLowerInvariant()
         asset_size_bytes = [long]$asset.size
         asset_last_updated = $asset.updated_at
