@@ -63,7 +63,7 @@ $mirrorFonts = foreach ($font in @($index.fonts)) {
 }
 
 $output = [ordered]@{
-    schema_version = '1.0'
+    schema_version = 1
     release = $release.tag_name
     release_last_updated = $release.updated_at
     fonts = @($mirrorFonts)
